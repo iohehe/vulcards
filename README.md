@@ -2,6 +2,7 @@
 
 ## SSRF
 - SONY:1,000:https://hackerone.com/reports/826097
+- https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb
 
 
 ## Weak Password Recovery Mechanism for Forgotten Password
