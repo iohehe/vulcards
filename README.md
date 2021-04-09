@@ -11,3 +11,8 @@
 
 ## Business Logic Errors
 - fransrosen:Grammarly:3,000:https://hackerone.com/reports/1082847
+
+
+## XSS
+- Shopify:3,500:https://hackerone.com/reports/1145162
+  - xss这么贵的么？
