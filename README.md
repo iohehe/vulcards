@@ -17,3 +17,7 @@
 ## XSS
 - Shopify:3,500:https://hackerone.com/reports/1145162
   - xss这么贵的么？
+
+## IDOR
+- BOHEMIA INTERACTIVE a.s.:150:https://hackerone.com/reports/287789
+   - idor订单号， see other users private information
