@@ -17,6 +17,8 @@
 ## XSS
 - Shopify:3,500:https://hackerone.com/reports/1145162
   - xss这么贵的么？
+- DuckDuckGo::[Reflected/Stored XSS on duckduckgo.com](https://hackerone.com/reports/1110229)
+  - interestring
 
 ## IDOR
 - BOHEMIA INTERACTIVE a.s.:150:https://hackerone.com/reports/287789
