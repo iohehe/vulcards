@@ -25,5 +25,6 @@
    - idor订单号， see other users private information
 
 ##  Subdomain Takeover
--Grab:https://hackerone.com/reports/352869
+- Grab:https://hackerone.com/reports/352869
    - 争取早日打响Takeover第一枪
+- HackeoOne:1000:https://hackerone.com/reports/202767
