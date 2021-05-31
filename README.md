@@ -3,7 +3,7 @@
 ## SSRF
 - [1] SONY:1,000:https://hackerone.com/reports/826097
 - [2] dropbox: https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb
-- [3] helium: 500: https://hackerone.com/reports/1055823-helium
+- [3](https://github.com/iohehe/vulcards/issues/5) helium: 500: https://hackerone.com/reports/1055823-helium
 
 
 ## Weak Password Recovery Mechanism for Forgotten Password
