@@ -23,3 +23,6 @@
 ##  Subdomain Takeover
 - [1] Grab:https://hackerone.com/reports/352869
 - [2] HackeoOne:1000:https://hackerone.com/reports/202767
+
+## Information Disclosure
+- [1] https://hackerone.com/reports/1212760
