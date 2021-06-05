@@ -13,6 +13,8 @@
 ## Open Redirect
 - [1] https://book.hacktricks.xyz/pentesting-web/open-redirect
 
+## Broke Link
+- [1] https://gist.github.com/EdOverflow/24e0bb929169eb948bb7f3d0a2d5528f
 
 ## Others
 - [1] https://www.troyhunt.com/browser-url-encoding-and-website/
