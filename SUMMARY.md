@@ -26,5 +26,6 @@
 
 * [2021](vuls/2021/README.md)
   * [6](vuls/2021/6/README.md)
+    * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
 
