@@ -2,6 +2,11 @@
 
 * [vulcards](README.md)
 
+## Open Redirection
+
+* [articles](open-redirection/articles.md)
+* [vuls](open-redirection/vuls.md)
+
 ## CSRF
 
 * [articles](csrf/articles.md)
