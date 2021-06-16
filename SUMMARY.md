@@ -24,6 +24,10 @@
 * [vuls](surf/vuls.md)
 * [articles](surf/untitled.md)
 
+## Information Disclosure
+
+* [vuls](information-disclosure/vuls.md)
+
 ## TOOLS
 
 * [Nmap](tools/nmap.md)
