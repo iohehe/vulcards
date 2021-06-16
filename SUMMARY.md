@@ -26,11 +26,16 @@
 
 ## Information Disclosure
 
-* [vuls](information-disclosure/vuls.md)
+* [vuls](information-disclosure/vuls/README.md)
+  * [SSL MitM](information-disclosure/vuls/ssl-mitm.md)
 
 ## DoS
 
 * [article](dos/article.md)
+
+## Improper Certificate Validation
+
+* [vuls](improper-certificate-validation/vuls.md)
 
 ## VULS
 
