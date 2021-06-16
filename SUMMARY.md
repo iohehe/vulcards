@@ -11,6 +11,7 @@
 
 ## CORS
 
+* [vuls](cors/vuls.md)
 * [articles](cors/articles.md)
 
 ## SSRF <a id="surf"></a>
