@@ -24,10 +24,14 @@
 * [vuls](surf/vuls.md)
 * [articles](surf/untitled.md)
 
-## Information Disclosure
+## Cryptographic Issues
 
-* [vuls](information-disclosure/vuls/README.md)
-  * [SSL MitM](information-disclosure/vuls/ssl-mitm.md)
+* [vuls](cryptographic-issues/vuls/README.md)
+  * [SSL MitM](cryptographic-issues/vuls/ssl-mitm.md)
+  * [predictable secrets](cryptographic-issues/vuls/predictable-secrets.md)
+  * [preditctable PRNGs](cryptographic-issues/vuls/preditctable-prngs.md)
+  * [chosen plaintext attacks](cryptographic-issues/vuls/chosen-plaintext-attacks.md)
+  * [feasible bruteforce attacks](cryptographic-issues/vuls/feasible-bruteforce-attacks.md)
 
 ## DoS
 
