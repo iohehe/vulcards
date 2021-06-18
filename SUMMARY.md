@@ -9,9 +9,8 @@
 
 ## CSRF
 
-* [articles](csrf/articles.md)
 * [vuls](csrf/vuls/README.md)
-  * [Untitled](csrf/vuls/untitled-1.md)
+  * [CSRF with QR Login](csrf/vuls/untitled-1.md)
   * [Untitled](csrf/vuls/untitled.md)
 
 ## CORS
@@ -46,6 +45,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled.md)
   * [06](vuls/2021/6/README.md)
+    * [17](vuls/2021/6/17.md)
+    * [16](vuls/2021/6/16.md)
     * [15](vuls/2021/6/15.md)
     * [14](vuls/2021/6/14.md)
     * [12](vuls/2021/6/12.md)
