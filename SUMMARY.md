@@ -40,11 +40,16 @@
 
 * [vuls](improper-certificate-validation/vuls.md)
 
+## SUBDOMAIN TAKEOVER
+
+* [vuls](subdomain-takeover/vuls.md)
+
 ## VULS
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled.md)
   * [06](vuls/2021/6/README.md)
+    * [18](vuls/2021/6/18.md)
     * [17](vuls/2021/6/17.md)
     * [16](vuls/2021/6/16.md)
     * [15](vuls/2021/6/15.md)
@@ -53,8 +58,4 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
-
-## SUBDOMAIN TAKEOVER
-
-* [vuls](subdomain-takeover/vuls.md)
 
