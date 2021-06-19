@@ -54,3 +54,7 @@
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
 
+## SUBDOMAIN TAKEOVER
+
+* [vuls](subdomain-takeover/vuls.md)
+
