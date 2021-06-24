@@ -49,6 +49,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled.md)
   * [06](vuls/2021/6/README.md)
+    * [23](vuls/2021/6/23.md)
     * [22](vuls/2021/6/22.md)
     * [21](vuls/2021/6/21.md)
     * [18](vuls/2021/6/18.md)
