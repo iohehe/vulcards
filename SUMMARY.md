@@ -11,7 +11,7 @@
 
 * [vuls](csrf/vuls/README.md)
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
-  * [Untitled](csrf/vuls/untitled.md)
+  * [CVE-2019-8451](csrf/vuls/untitled.md)
 
 ## CORS
 
@@ -49,6 +49,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled.md)
   * [06](vuls/2021/6/README.md)
+    * [29](vuls/2021/6/29.md)
     * [28](vuls/2021/6/28.md)
     * [26](vuls/2021/6/26.md)
     * [24](vuls/2021/6/24.md)
