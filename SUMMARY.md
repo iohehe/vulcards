@@ -11,7 +11,6 @@
 
 * [vuls](csrf/vuls/README.md)
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
-  * [CVE-2019-8451](csrf/vuls/untitled.md)
 
 ## CORS
 
@@ -20,7 +19,8 @@
 
 ## SSRF <a id="surf"></a>
 
-* [vuls](surf/vuls.md)
+* [vuls](surf/vuls/README.md)
+  * [CVE-2019-8451](surf/vuls/untitled.md)
 * [articles](surf/untitled.md)
 
 ## Cryptographic Issues
