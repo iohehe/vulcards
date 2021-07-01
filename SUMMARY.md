@@ -4,18 +4,20 @@
 
 ## Open Redirection
 
-* [articles](open-redirection/articles.md)
 * [vuls](open-redirection/vuls.md)
+* [articles](open-redirection/articles.md)
 
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
+* [articles](csrf/articles.md)
 
 ## CORS
 
 * [vuls](cors/vuls/README.md)
   * [misconfig](cors/vuls/misconfig.md)
+* [articles](cors/articles.md)
 
 ## SSRF <a id="surf"></a>
 
@@ -31,27 +33,33 @@
   * [preditctable PRNGs](cryptographic-issues/vuls/preditctable-prngs.md)
   * [chosen plaintext attacks](cryptographic-issues/vuls/chosen-plaintext-attacks.md)
   * [feasible bruteforce attacks](cryptographic-issues/vuls/feasible-bruteforce-attacks.md)
+* [articles](cryptographic-issues/articles.md)
 
 ## DoS
 
-* [article](dos/article.md)
+* [vuls](dos/vuls.md)
+* [articles](dos/article.md)
 
 ## Improper Certificate Validation
 
 * [vuls](improper-certificate-validation/vuls/README.md)
   * [Spring](improper-certificate-validation/vuls/spring.md)
+* [articles](improper-certificate-validation/articles.md)
 
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls.md)
+* [articles](subdomain-takeover/articles.md)
 
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls.md)
+* [articles](information-disclosure/articles.md)
 
 ## XXE
 
 * [vuls](xxe/vuls.md)
+* [articles](xxe/articles.md)
 
 ## VULS
 

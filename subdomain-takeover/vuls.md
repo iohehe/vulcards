@@ -1,8 +1,6 @@
 # vuls
 
-{% embed url="https://hackerone.com/reports/953719" %}
+* [\#953719](https://hackerone.com/reports/953719)Subdomain Takeover – www.jet.acronis.com pointing to unclaimed Webflow services
 
-[https://github.com/indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns)
 
-[https://0xpatrik.com/subdomain-takeover-ns/](https://0xpatrik.com/subdomain-takeover-ns/)
 
