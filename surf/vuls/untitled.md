@@ -4,7 +4,7 @@ Reference: [https://jira.atlassian.com/browse/JRASERVER-69793](https://jira.atla
 
 Case: [https://hackerone.com/reports/713900](https://hackerone.com/reports/713900)
 
-HOW-TO:
+### HOW-TO:
 
 Test the path: /plugins/servlet/gadgets/makeRequest
 

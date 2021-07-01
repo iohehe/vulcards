@@ -38,17 +38,27 @@
 
 ## Improper Certificate Validation
 
-* [vuls](improper-certificate-validation/vuls.md)
+* [vuls](improper-certificate-validation/vuls/README.md)
+  * [Spring](improper-certificate-validation/vuls/spring.md)
 
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls.md)
+
+## Information Disclosure
+
+* [vuls](information-disclosure/vuls.md)
+
+## XXE
+
+* [vuls](xxe/vuls.md)
 
 ## VULS
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled.md)
   * [06](vuls/2021/6/README.md)
+    * [30](vuls/2021/6/30.md)
     * [29](vuls/2021/6/29.md)
     * [28](vuls/2021/6/28.md)
     * [26](vuls/2021/6/26.md)
