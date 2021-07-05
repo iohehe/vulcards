@@ -37,7 +37,8 @@
 
 ## DoS
 
-* [vuls](dos/vuls.md)
+* [vuls](dos/vuls/README.md)
+  * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
 
 ## Improper Certificate Validation
@@ -85,4 +86,9 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
+
+## IDOR
+
+* [articles](idor/articles.md)
+* [vuls](idor/vuls.md)
 
