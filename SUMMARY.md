@@ -62,10 +62,29 @@
 * [vuls](xxe/vuls.md)
 * [articles](xxe/articles.md)
 
+## IDOR
+
+* [articles](idor/articles.md)
+* [vuls](idor/vuls.md)
+
+## Improper Authentication
+
+* [vuls](improper-authentication/vuls/README.md)
+  * [Account takeover](improper-authentication/vuls/account-takeover.md)
+* [articles](improper-authentication/articles.md)
+
+## Nodejs
+
+* [vuls](nodejs/vuls/README.md)
+  * [core](nodejs/vuls/core.md)
+* [articles](nodejs/articles.md)
+
 ## VULS
 
 * [2021](vuls/2021/README.md)
+  * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [05](vuls/2021/untitled/05.md)
     * [02](vuls/2021/untitled/02.md)
     * [01](vuls/2021/untitled/01.md)
   * [06](vuls/2021/6/README.md)
@@ -86,9 +105,4 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
-
-## IDOR
-
-* [articles](idor/articles.md)
-* [vuls](idor/vuls.md)
 
