@@ -108,3 +108,13 @@
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
 
+## Improper Access Control
+
+* [vuls](improper-access-control/vuls.md)
+* [articles](improper-access-control/articles.md)
+
+## Code Injection
+
+* [vuls](code-injection/vuls.md)
+* [articles](code-injection/articles.md)
+
