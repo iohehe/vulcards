@@ -4,7 +4,8 @@
 
 ## Open Redirection
 
-* [vuls](open-redirection/vuls.md)
+* [vuls](open-redirection/vuls/README.md)
+  * [bypass the domain check](open-redirection/vuls/bypass-the-domain-check.md)
 * [articles](open-redirection/articles.md)
 
 ## CSRF
@@ -110,7 +111,8 @@
 
 ## Improper Access Control
 
-* [vuls](improper-access-control/vuls.md)
+* [vuls](improper-access-control/vuls/README.md)
+  * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
 
 ## Code Injection
