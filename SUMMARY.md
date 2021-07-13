@@ -71,6 +71,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [Referrer Header](improper-authentication/vuls/referrer-header.md)
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
 * [articles](improper-authentication/articles.md)
 
