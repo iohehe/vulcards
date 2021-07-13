@@ -39,6 +39,7 @@
 ## DoS
 
 * [vuls](dos/vuls/README.md)
+  * [CPDoS](dos/vuls/cpdos.md)
   * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
 
@@ -86,6 +87,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [09](vuls/2021/untitled/09.md)
     * [12](vuls/2021/untitled/12.md)
     * [08](vuls/2021/untitled/08.md)
     * [07](vuls/2021/untitled/07.md)
