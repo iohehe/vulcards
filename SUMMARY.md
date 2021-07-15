@@ -100,11 +100,18 @@
   * [DOM](xss/vuls/dom.md)
 * [articles](xss/articles.md)
 
+## Violation of Secure Design Principles
+
+* [vuls](violation-of-secure-design-principles/vuls/README.md)
+  * [Text Injection](violation-of-secure-design-principles/vuls/text-injection.md)
+* [articles](violation-of-secure-design-principles/articles.md)
+
 ## VULS
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [14](vuls/2021/untitled/14.md)
     * [13](vuls/2021/untitled/13.md)
     * [12](vuls/2021/untitled/12.md)
     * [09](vuls/2021/untitled/09.md)
