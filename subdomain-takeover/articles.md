@@ -4,6 +4,8 @@
 
 {% embed url="https://github.com/EdOverflow/can-i-take-over-xyz" %}
 
+{% embed url="https://0xpatrik.com/subdomain-takeover-basics/" %}
+
 {% embed url="https://0xpatrik.com/subdomain-takeover-ns/" %}
 
 {% embed url="https://www.hackerone.com/blog/Guide-Subdomain-Takeovers" %}
