@@ -9,7 +9,7 @@
 1. load some resources must be loginned to see.
 2. click some links to the three-part website.
 3. copy the referrer header URL, and open in other browser
-4. wether you can see some resources which you must login to obtain.  
+4. whether you can see some resources which you must login  to obtain.  
 
 
 

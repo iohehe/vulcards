@@ -43,12 +43,6 @@
   * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
 
-## Improper Certificate Validation
-
-* [vuls](improper-certificate-validation/vuls/README.md)
-  * [Spring](improper-certificate-validation/vuls/spring.md)
-* [articles](improper-certificate-validation/articles.md)
-
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls.md)
@@ -69,12 +63,24 @@
 * [articles](idor/articles.md)
 * [vuls](idor/vuls.md)
 
+## Improper Certificate Validation
+
+* [vuls](improper-certificate-validation/vuls/README.md)
+  * [Spring](improper-certificate-validation/vuls/spring.md)
+* [articles](improper-certificate-validation/articles.md)
+
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
   * [Referrer Header](improper-authentication/vuls/referrer-header.md)
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
 * [articles](improper-authentication/articles.md)
+
+## Improper Access Control
+
+* [vuls](improper-access-control/vuls/README.md)
+  * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
+* [articles](improper-access-control/articles.md)
 
 ## Nodejs
 
@@ -86,12 +92,6 @@
 
 * [vuls](code-injection/vuls.md)
 * [articles](code-injection/articles.md)
-
-## Improper Access Control
-
-* [vuls](improper-access-control/vuls/README.md)
-  * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
-* [articles](improper-access-control/articles.md)
 
 ## XSS
 
@@ -106,11 +106,17 @@
   * [Text Injection](violation-of-secure-design-principles/vuls/text-injection.md)
 * [articles](violation-of-secure-design-principles/articles.md)
 
+## Business Logic Errors
+
+* [vuls](business-logic-errors/vuls.md)
+* [articles](business-logic-errors/articles.md)
+
 ## VULS
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [15](vuls/2021/untitled/15.md)
     * [14](vuls/2021/untitled/14.md)
     * [13](vuls/2021/untitled/13.md)
     * [12](vuls/2021/untitled/12.md)
