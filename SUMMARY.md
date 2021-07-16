@@ -108,7 +108,8 @@
 
 ## Business Logic Errors
 
-* [vuls](business-logic-errors/vuls.md)
+* [vuls](business-logic-errors/vuls/README.md)
+  * [Untitled](business-logic-errors/vuls/untitled.md)
 * [articles](business-logic-errors/articles.md)
 
 ## VULS
