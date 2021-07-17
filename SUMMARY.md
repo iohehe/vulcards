@@ -11,6 +11,8 @@
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
+  * [Email change](csrf/vuls/email-change.md)
+  * [Profile update](csrf/vuls/profile-update.md)
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
 * [articles](csrf/articles.md)
 
@@ -61,7 +63,10 @@
 ## IDOR
 
 * [articles](idor/articles.md)
-* [vuls](idor/vuls.md)
+* [vuls](idor/vuls/README.md)
+  * [account](idor/vuls/account.md)
+  * [address](idor/vuls/address.md)
+  * [profile](idor/vuls/profile.md)
 
 ## Improper Certificate Validation
 
@@ -72,6 +77,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [No Rate Limit](improper-authentication/vuls/no-rate-limit.md)
   * [Referrer Header](improper-authentication/vuls/referrer-header.md)
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
 * [articles](improper-authentication/articles.md)

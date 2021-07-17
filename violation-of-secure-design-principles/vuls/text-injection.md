@@ -1,5 +1,9 @@
 # Text Injection
 
+{% embed url="https://medium.com/cyberverse/got-easiest-bounty-with-html-injection-via-email-confirmation-b1b10575a105" %}
+
+
+
 [\#1245051](https://hackerone.com/reports/1245051)Error Page Content Spoofing or Text Injection
 
 [  
