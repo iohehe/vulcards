@@ -52,7 +52,8 @@
 
 ## Information Disclosure
 
-* [vuls](information-disclosure/vuls.md)
+* [vuls](information-disclosure/vuls/README.md)
+  * [EXIF](information-disclosure/vuls/exif.md)
 * [articles](information-disclosure/articles.md)
 
 ## XXE
@@ -151,4 +152,10 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
+
+## Phishing
+
+* [vuls](phishing/vuls/README.md)
+  * [Broken link Hijacking](phishing/vuls/broken-link-hijacking.md)
+* [articles](phishing/articles.md)
 
