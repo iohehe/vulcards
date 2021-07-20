@@ -103,7 +103,10 @@
 ## XSS
 
 * [vuls](xss/vuls/README.md)
-  * [Store](xss/vuls/store.md)
+  * [Reflected](xss/vuls/reflected/README.md)
+    * [error](xss/vuls/reflected/error.md)
+  * [Store](xss/vuls/store/README.md)
+    * [emoji](xss/vuls/store/emoji.md)
   * [DOM](xss/vuls/dom.md)
 * [articles](xss/articles.md)
 
@@ -130,6 +133,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [19](vuls/2021/untitled/19.md)
     * [18](vuls/2021/untitled/18.md)
     * [15](vuls/2021/untitled/15.md)
     * [14](vuls/2021/untitled/14.md)
