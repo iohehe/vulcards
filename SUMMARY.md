@@ -53,6 +53,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Exfiltrating](information-disclosure/vuls/exfiltrating.md)
   * [EXIF](information-disclosure/vuls/exif.md)
 * [articles](information-disclosure/articles.md)
 
