@@ -11,6 +11,7 @@
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
+  * [Password change](csrf/vuls/password-change.md)
   * [Email change](csrf/vuls/email-change.md)
   * [Profile update](csrf/vuls/profile-update.md)
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
@@ -19,6 +20,7 @@
 ## CORS
 
 * [vuls](cors/vuls/README.md)
+  * [CORS+XSS](cors/vuls/cors+xss.md)
   * [misconfig](cors/vuls/misconfig.md)
 * [articles](cors/articles.md)
 
@@ -88,6 +90,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [403 Bypass](improper-access-control/vuls/403-bypass.md)
   * [token leak](improper-access-control/vuls/token-leak.md)
   * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
@@ -107,6 +110,7 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [Android](xss/vuls/reflected/android.md)
     * [error](xss/vuls/reflected/error.md)
   * [Store](xss/vuls/store/README.md)
     * [emoji](xss/vuls/store/emoji.md)
@@ -136,7 +140,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
-    * [Untitled](vuls/2021/untitled/untitled.md)
+    * [23](vuls/2021/untitled/23.md)
+    * [22](vuls/2021/untitled/untitled.md)
     * [21](vuls/2021/untitled/21.md)
     * [19](vuls/2021/untitled/19.md)
     * [18](vuls/2021/untitled/18.md)
