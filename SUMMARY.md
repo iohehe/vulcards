@@ -79,6 +79,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [CA](improper-authentication/vuls/ca.md)
   * [No Rate Limit](improper-authentication/vuls/no-rate-limit.md)
   * [Referrer Header](improper-authentication/vuls/referrer-header.md)
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
@@ -87,6 +88,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [token leak](improper-access-control/vuls/token-leak.md)
   * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
 
@@ -135,6 +137,7 @@
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
     * [Untitled](vuls/2021/untitled/untitled.md)
+    * [21](vuls/2021/untitled/21.md)
     * [19](vuls/2021/untitled/19.md)
     * [18](vuls/2021/untitled/18.md)
     * [15](vuls/2021/untitled/15.md)
