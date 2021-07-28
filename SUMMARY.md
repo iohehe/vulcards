@@ -55,6 +55,8 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [404](information-disclosure/vuls/404.md)
+  * [package.js](information-disclosure/vuls/package.js.md)
   * [API](information-disclosure/vuls/api.md)
   * [Exfiltrating](information-disclosure/vuls/exfiltrating.md)
   * [EXIF](information-disclosure/vuls/exif.md)
@@ -141,6 +143,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [07](vuls/2021/untitled/README.md)
+    * [27](vuls/2021/untitled/27.md)
     * [26](vuls/2021/untitled/26.md)
     * [25](vuls/2021/untitled/25.md)
     * [23](vuls/2021/untitled/23.md)
