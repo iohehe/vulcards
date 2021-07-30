@@ -11,6 +11,7 @@
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
+  * [URL](csrf/vuls/url.md)
   * [Password change](csrf/vuls/password-change.md)
   * [Email change](csrf/vuls/email-change.md)
   * [Profile update](csrf/vuls/profile-update.md)
@@ -33,6 +34,7 @@
 ## Cryptographic Issues
 
 * [vuls](cryptographic-issues/vuls/README.md)
+  * [CVE-2018-2879](cryptographic-issues/vuls/cve-2018-2879.md)
   * [SSL MitM](cryptographic-issues/vuls/ssl-mitm.md)
   * [predictable secrets](cryptographic-issues/vuls/predictable-secrets.md)
   * [preditctable PRNGs](cryptographic-issues/vuls/preditctable-prngs.md)
@@ -55,6 +57,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Request Log](information-disclosure/vuls/request-log.md)
   * [404](information-disclosure/vuls/404.md)
   * [package.js](information-disclosure/vuls/package.js.md)
   * [API](information-disclosure/vuls/api.md)
@@ -84,6 +87,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [SSO](improper-authentication/vuls/sso.md)
   * [CA](improper-authentication/vuls/ca.md)
   * [No Rate Limit](improper-authentication/vuls/no-rate-limit.md)
   * [Referrer Header](improper-authentication/vuls/referrer-header.md)
@@ -93,6 +97,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [publicly accessible](improper-access-control/vuls/publicly-accessible.md)
   * [403 Bypass](improper-access-control/vuls/403-bypass.md)
   * [token leak](improper-access-control/vuls/token-leak.md)
   * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
@@ -106,15 +111,19 @@
 
 ## Code Injection
 
-* [vuls](code-injection/vuls.md)
+* [vuls](code-injection/vuls/README.md)
+  * [Pulse Secure SSL VPN](code-injection/vuls/pulse-secure-ssl-vpn.md)
+  * [OpenAM](code-injection/vuls/openam.md)
 * [articles](code-injection/articles.md)
 
 ## XSS
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
     * [Android](xss/vuls/reflected/android.md)
     * [error](xss/vuls/reflected/error.md)
+    * [URL](xss/vuls/reflected/url.md)
   * [Store](xss/vuls/store/README.md)
     * [emoji](xss/vuls/store/emoji.md)
   * [DOM](xss/vuls/dom.md)
@@ -142,7 +151,9 @@
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
+  * [Untitled](vuls/2021/untitled-2.md)
   * [07](vuls/2021/untitled/README.md)
+    * [29](vuls/2021/untitled/29.md)
     * [27](vuls/2021/untitled/27.md)
     * [26](vuls/2021/untitled/26.md)
     * [25](vuls/2021/untitled/25.md)
@@ -179,4 +190,17 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
+
+## SQL Injection
+
+* [vuls](sql-injection/vuls/README.md)
+  * [Login form](sql-injection/vuls/login-form.md)
+  * [xml](sql-injection/vuls/xml.md)
+* [article](sql-injection/article.md)
+
+## OS Command Injection
+
+* [vuls](os-command-injection/vuls/README.md)
+  * [Exposed Kubernetes API](os-command-injection/vuls/exposed-kubernetes-api.md)
+* [articles](os-command-injection/articles.md)
 
