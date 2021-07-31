@@ -51,12 +51,14 @@
 
 ## SUBDOMAIN TAKEOVER
 
-* [vuls](subdomain-takeover/vuls.md)
+* [vuls](subdomain-takeover/vuls/README.md)
+  * [DNS](subdomain-takeover/vuls/dns.md)
 * [articles](subdomain-takeover/articles.md)
 
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [403](information-disclosure/vuls/403.md)
   * [Request Log](information-disclosure/vuls/request-log.md)
   * [404](information-disclosure/vuls/404.md)
   * [package.js](information-disclosure/vuls/package.js.md)
@@ -153,6 +155,7 @@
   * [Untitled](vuls/2021/untitled-1.md)
   * [Untitled](vuls/2021/untitled-2.md)
   * [07](vuls/2021/untitled/README.md)
+    * [30](vuls/2021/untitled/30.md)
     * [29](vuls/2021/untitled/29.md)
     * [27](vuls/2021/untitled/27.md)
     * [26](vuls/2021/untitled/26.md)
