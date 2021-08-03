@@ -11,6 +11,7 @@
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
+  * [graphQL](csrf/vuls/graphql.md)
   * [URL](csrf/vuls/url.md)
   * [Password change](csrf/vuls/password-change.md)
   * [Email change](csrf/vuls/email-change.md)
@@ -58,6 +59,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [filename](information-disclosure/vuls/filename.md)
   * [403](information-disclosure/vuls/403.md)
   * [Request Log](information-disclosure/vuls/request-log.md)
   * [404](information-disclosure/vuls/404.md)
@@ -89,6 +91,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [2FA](improper-authentication/vuls/2fa.md)
   * [SSO](improper-authentication/vuls/sso.md)
   * [CA](improper-authentication/vuls/ca.md)
   * [No Rate Limit](improper-authentication/vuls/no-rate-limit.md)
@@ -127,6 +130,7 @@
     * [error](xss/vuls/reflected/error.md)
     * [URL](xss/vuls/reflected/url.md)
   * [Store](xss/vuls/store/README.md)
+    * [register](xss/vuls/store/register.md)
     * [emoji](xss/vuls/store/emoji.md)
   * [DOM](xss/vuls/dom.md)
 * [articles](xss/articles.md)
@@ -153,8 +157,11 @@
 
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
-  * [Untitled](vuls/2021/untitled-2.md)
+  * [08](vuls/2021/untitled-2/README.md)
+    * [03](vuls/2021/untitled-2/03.md)
+    * [02](vuls/2021/untitled-2/02.md)
   * [07](vuls/2021/untitled/README.md)
+    * [31](vuls/2021/untitled/31.md)
     * [30](vuls/2021/untitled/30.md)
     * [29](vuls/2021/untitled/29.md)
     * [27](vuls/2021/untitled/27.md)
