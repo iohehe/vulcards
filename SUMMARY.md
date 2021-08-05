@@ -59,6 +59,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Gitlab Ticket](information-disclosure/vuls/gitlab-ticket.md)
   * [filename](information-disclosure/vuls/filename.md)
   * [403](information-disclosure/vuls/403.md)
   * [Request Log](information-disclosure/vuls/request-log.md)
@@ -144,7 +145,7 @@
 ## Business Logic Errors
 
 * [vuls](business-logic-errors/vuls/README.md)
-  * [Untitled](business-logic-errors/vuls/untitled.md)
+  * [x-Forwarded-For](business-logic-errors/vuls/untitled.md)
 * [articles](business-logic-errors/articles.md)
 
 ## Phishing
@@ -158,6 +159,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [05](vuls/2021/untitled-2/05.md)
+    * [04](vuls/2021/untitled-2/04.md)
     * [03](vuls/2021/untitled-2/03.md)
     * [02](vuls/2021/untitled-2/02.md)
   * [07](vuls/2021/untitled/README.md)
@@ -213,4 +216,9 @@
 * [vuls](os-command-injection/vuls/README.md)
   * [Exposed Kubernetes API](os-command-injection/vuls/exposed-kubernetes-api.md)
 * [articles](os-command-injection/articles.md)
+
+## External Control of Critical State Data
+
+* [articles](external-control-of-critical-state-data/articles.md)
+* [vuls](external-control-of-critical-state-data/vuls.md)
 
