@@ -59,6 +59,8 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [HTTP/2](information-disclosure/vuls/http-2.md)
+  * [CISCO ASA](information-disclosure/vuls/cisco-asa.md)
   * [Gitlab Ticket](information-disclosure/vuls/gitlab-ticket.md)
   * [filename](information-disclosure/vuls/filename.md)
   * [403](information-disclosure/vuls/403.md)
@@ -86,6 +88,7 @@
 ## Improper Certificate Validation
 
 * [vuls](improper-certificate-validation/vuls/README.md)
+  * [SSL](improper-certificate-validation/vuls/ssl.md)
   * [Spring](improper-certificate-validation/vuls/spring.md)
 * [articles](improper-certificate-validation/articles.md)
 
@@ -103,6 +106,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [other](improper-access-control/vuls/other.md)
   * [publicly accessible](improper-access-control/vuls/publicly-accessible.md)
   * [403 Bypass](improper-access-control/vuls/403-bypass.md)
   * [token leak](improper-access-control/vuls/token-leak.md)
@@ -126,6 +130,7 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [OAuth Flow](xss/vuls/reflected/oauth-flow.md)
     * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
     * [Android](xss/vuls/reflected/android.md)
     * [error](xss/vuls/reflected/error.md)
@@ -159,6 +164,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [07](vuls/2021/untitled-2/07.md)
+    * [06](vuls/2021/untitled-2/06.md)
     * [05](vuls/2021/untitled-2/05.md)
     * [04](vuls/2021/untitled-2/04.md)
     * [03](vuls/2021/untitled-2/03.md)
