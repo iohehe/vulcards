@@ -122,6 +122,7 @@
 ## Code Injection
 
 * [vuls](code-injection/vuls/README.md)
+  * [deserialize](code-injection/vuls/deserialize.md)
   * [Pulse Secure SSL VPN](code-injection/vuls/pulse-secure-ssl-vpn.md)
   * [OpenAM](code-injection/vuls/openam.md)
 * [articles](code-injection/articles.md)
