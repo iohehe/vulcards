@@ -239,5 +239,7 @@
 
 ## Others
 
-* [Insufficient Session Expiration](others/insufficient-session-expiration.md)
+* [vuls](others/insufficient-session-expiration/README.md)
+  * [Insufficient Session Expiration](others/insufficient-session-expiration/insufficient-session-expiration.md)
+* [articles](others/articles.md)
 
