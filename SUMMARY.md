@@ -109,6 +109,7 @@
 
 * [vuls](improper-access-control/vuls/README.md)
   * [other](improper-access-control/vuls/other.md)
+  * [password reset link](improper-access-control/vuls/password-reset-link.md)
   * [account](improper-access-control/vuls/account.md)
   * [publicly accessible](improper-access-control/vuls/publicly-accessible.md)
   * [403 Bypass](improper-access-control/vuls/403-bypass.md)
