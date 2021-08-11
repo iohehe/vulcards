@@ -188,6 +188,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [11](vuls/2021/untitled-2/11.md)
     * [10](vuls/2021/untitled-2/10.md)
     * [09](vuls/2021/untitled-2/09.md)
     * [08](vuls/2021/untitled-2/08.md)
@@ -241,6 +242,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [in-flight data](others/insufficient-session-expiration/in-flight-data.md)
   * [Insufficient Session Expiration](others/insufficient-session-expiration/insufficient-session-expiration.md)
 * [articles](others/articles.md)
 
