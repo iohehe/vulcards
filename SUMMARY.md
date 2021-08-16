@@ -108,6 +108,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [x-forwarded-for](improper-access-control/vuls/x-forwarded-for.md)
   * [other](improper-access-control/vuls/other.md)
   * [password reset link](improper-access-control/vuls/password-reset-link.md)
   * [account](improper-access-control/vuls/account.md)
@@ -175,6 +176,7 @@
 ## OS Command Injection
 
 * [vuls](os-command-injection/vuls/README.md)
+  * [jFrog credentials](os-command-injection/vuls/jfrog-credentials.md)
   * [Exposed Kubernetes API](os-command-injection/vuls/exposed-kubernetes-api.md)
 * [articles](os-command-injection/articles.md)
 
@@ -188,6 +190,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [13](vuls/2021/untitled-2/13.md)
+    * [12](vuls/2021/untitled-2/12.md)
     * [11](vuls/2021/untitled-2/11.md)
     * [10](vuls/2021/untitled-2/10.md)
     * [09](vuls/2021/untitled-2/09.md)
