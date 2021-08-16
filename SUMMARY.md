@@ -55,12 +55,14 @@
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [URL in source code](subdomain-takeover/vuls/url-in-source-code.md)
   * [DNS](subdomain-takeover/vuls/dns.md)
 * [articles](subdomain-takeover/articles.md)
 
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [JSON-RPC](information-disclosure/vuls/json-rpc.md)
   * [HTTP/2](information-disclosure/vuls/http-2.md)
   * [CISCO ASA](information-disclosure/vuls/cisco-asa.md)
   * [Gitlab Ticket](information-disclosure/vuls/gitlab-ticket.md)
