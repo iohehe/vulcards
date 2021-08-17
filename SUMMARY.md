@@ -48,6 +48,7 @@
 ## DoS
 
 * [vuls](dos/vuls/README.md)
+  * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
   * [CPDoS](dos/vuls/cpdos.md)
   * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
@@ -55,6 +56,7 @@
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [tilda.cc](subdomain-takeover/vuls/tilda.cc.md)
   * [URL in source code](subdomain-takeover/vuls/url-in-source-code.md)
   * [DNS](subdomain-takeover/vuls/dns.md)
 * [articles](subdomain-takeover/articles.md)
@@ -171,6 +173,7 @@
 ## SQL Injection
 
 * [vuls](sql-injection/vuls/README.md)
+  * [phone\_number](sql-injection/vuls/phone_number.md)
   * [Login form](sql-injection/vuls/login-form.md)
   * [xml](sql-injection/vuls/xml.md)
 * [article](sql-injection/article.md)
@@ -192,6 +195,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [15](vuls/2021/untitled-2/15.md)
+    * [14](vuls/2021/untitled-2/14.md)
     * [13](vuls/2021/untitled-2/13.md)
     * [12](vuls/2021/untitled-2/12.md)
     * [11](vuls/2021/untitled-2/11.md)
