@@ -8,5 +8,5 @@ Case: [https://hackerone.com/reports/713900](https://hackerone.com/reports/71390
 
 Test the path: /plugins/servlet/gadgets/makeRequest
 
-![SSRF](../../.gitbook/assets/image%20%2811%29.png)
+![SSRF](../../.gitbook/assets/image%20%289%29%20%283%29.png)
 

@@ -48,6 +48,7 @@
 ## DoS
 
 * [vuls](dos/vuls/README.md)
+  * [CVE-2018-6389](dos/vuls/cve-2018-6389.md)
   * [no rate limiting](dos/vuls/no-rate-limiting.md)
   * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
   * [CPDoS](dos/vuls/cpdos.md)
@@ -57,6 +58,7 @@
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [AWS S3](subdomain-takeover/vuls/aws-s3.md)
   * [tilda.cc](subdomain-takeover/vuls/tilda.cc.md)
   * [URL in source code](subdomain-takeover/vuls/url-in-source-code.md)
   * [DNS](subdomain-takeover/vuls/dns.md)
@@ -65,6 +67,8 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Salesforce](information-disclosure/vuls/salesforce.md)
+  * [LDAP](information-disclosure/vuls/ldap.md)
   * [JSON-RPC](information-disclosure/vuls/json-rpc.md)
   * [HTTP/2](information-disclosure/vuls/http-2.md)
   * [CISCO ASA](information-disclosure/vuls/cisco-asa.md)
@@ -143,6 +147,7 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [email=](xss/vuls/reflected/email.md)
     * [OAuth Flow](xss/vuls/reflected/oauth-flow.md)
     * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
     * [Android](xss/vuls/reflected/android.md)
@@ -169,6 +174,7 @@
 ## Phishing
 
 * [vuls](phishing/vuls/README.md)
+  * [DMARC record](phishing/vuls/dmarc-record.md)
   * [Broken link Hijacking](phishing/vuls/broken-link-hijacking.md)
 * [articles](phishing/articles.md)
 
@@ -198,6 +204,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [18](vuls/2021/untitled-2/18.md)
+    * [17](vuls/2021/untitled-2/17.md)
     * [16](vuls/2021/untitled-2/16.md)
     * [15](vuls/2021/untitled-2/15.md)
     * [14](vuls/2021/untitled-2/14.md)
