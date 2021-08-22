@@ -67,6 +67,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [CUI](information-disclosure/vuls/cui.md)
   * [Salesforce](information-disclosure/vuls/salesforce.md)
   * [LDAP](information-disclosure/vuls/ldap.md)
   * [JSON-RPC](information-disclosure/vuls/json-rpc.md)
@@ -147,6 +148,8 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [SAMLResponse=](xss/vuls/reflected/samlresponse.md)
+    * [callback=](xss/vuls/reflected/callback.md)
     * [email=](xss/vuls/reflected/email.md)
     * [OAuth Flow](xss/vuls/reflected/oauth-flow.md)
     * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
@@ -156,7 +159,8 @@
   * [Store](xss/vuls/store/README.md)
     * [register](xss/vuls/store/register.md)
     * [emoji](xss/vuls/store/emoji.md)
-  * [DOM](xss/vuls/dom.md)
+  * [DOM](xss/vuls/dom/README.md)
+    * [innerHTML](xss/vuls/dom/innerhtml.md)
 * [articles](xss/articles.md)
 
 ## Violation of Secure Design Principles
@@ -204,6 +208,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [19](vuls/2021/untitled-2/19.md)
     * [18](vuls/2021/untitled-2/18.md)
     * [17](vuls/2021/untitled-2/17.md)
     * [16](vuls/2021/untitled-2/16.md)
@@ -265,6 +270,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [LDAP Injection](others/insufficient-session-expiration/ldap-injection.md)
   * [in-flight data](others/insufficient-session-expiration/in-flight-data.md)
   * [Insufficient Session Expiration](others/insufficient-session-expiration/insufficient-session-expiration.md)
 * [articles](others/articles.md)
