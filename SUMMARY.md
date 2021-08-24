@@ -148,6 +148,7 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [html\_url](xss/vuls/reflected/html_url.md)
     * [SAMLResponse=](xss/vuls/reflected/samlresponse.md)
     * [callback=](xss/vuls/reflected/callback.md)
     * [email=](xss/vuls/reflected/email.md)
@@ -208,6 +209,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [23](vuls/2021/untitled-2/23.md)
+    * [22](vuls/2021/untitled-2/22.md)
     * [21](vuls/2021/untitled-2/21.md)
     * [20](vuls/2021/untitled-2/20.md)
     * [19](vuls/2021/untitled-2/19.md)
