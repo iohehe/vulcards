@@ -67,6 +67,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [CVE-2013-3827](information-disclosure/vuls/cve-2013-3827.md)
   * [CUI](information-disclosure/vuls/cui.md)
   * [Salesforce](information-disclosure/vuls/salesforce.md)
   * [LDAP](information-disclosure/vuls/ldap.md)
@@ -209,6 +210,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [26](vuls/2021/untitled-2/26.md)
     * [25](vuls/2021/untitled-2/25.md)
     * [24](vuls/2021/untitled-2/24.md)
     * [23](vuls/2021/untitled-2/23.md)
@@ -277,6 +279,8 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [buffer overflow](others/insufficient-session-expiration/buffer-overflow.md)
+  * [GraphQL](others/insufficient-session-expiration/graphql.md)
   * [LDAP Injection](others/insufficient-session-expiration/ldap-injection.md)
   * [in-flight data](others/insufficient-session-expiration/in-flight-data.md)
   * [Insufficient Session Expiration](others/insufficient-session-expiration/insufficient-session-expiration.md)
