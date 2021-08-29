@@ -6,6 +6,10 @@
 
 {% embed url="https://hackerone.com/reports/774050" caption="No rate limiting for confirmation email lead to email flooding" %}
 
+{% embed url="https://hackerone.com/reports/1166069" %}
+
+{% embed url="https://hackerone.com/reports/1206777" %}
+
 
 
 

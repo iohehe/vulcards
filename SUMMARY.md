@@ -67,6 +67,8 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Directory](information-disclosure/vuls/directory.md)
+  * [Spring](information-disclosure/vuls/spring.md)
   * [CVE-2013-3827](information-disclosure/vuls/cve-2013-3827.md)
   * [CUI](information-disclosure/vuls/cui.md)
   * [Salesforce](information-disclosure/vuls/salesforce.md)
@@ -210,6 +212,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [27](vuls/2021/untitled-2/27.md)
     * [26](vuls/2021/untitled-2/26.md)
     * [25](vuls/2021/untitled-2/25.md)
     * [24](vuls/2021/untitled-2/24.md)
