@@ -6,3 +6,11 @@
 
 {% embed url="https://hackerone.com/reports/1113289" %}
 
+
+
+{% embed url="https://hackerone.com/reports/1192460" %}
+
+
+
+
+
