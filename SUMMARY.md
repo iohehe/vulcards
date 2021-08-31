@@ -110,6 +110,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [CVE-2020-3187](improper-authentication/vuls/cve-2020-3187.md)
   * [2FA](improper-authentication/vuls/2fa.md)
   * [SSO](improper-authentication/vuls/sso.md)
   * [CA](improper-authentication/vuls/ca.md)
@@ -182,6 +183,7 @@
 ## Phishing
 
 * [vuls](phishing/vuls/README.md)
+  * [page name](phishing/vuls/page-name.md)
   * [DMARC record](phishing/vuls/dmarc-record.md)
   * [Broken link Hijacking](phishing/vuls/broken-link-hijacking.md)
 * [articles](phishing/articles.md)
@@ -212,6 +214,8 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [30](vuls/2021/untitled-2/30.md)
+    * [29](vuls/2021/untitled-2/29.md)
     * [27](vuls/2021/untitled-2/27.md)
     * [26](vuls/2021/untitled-2/26.md)
     * [25](vuls/2021/untitled-2/25.md)
@@ -282,6 +286,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [index out of bound](others/insufficient-session-expiration/index-out-of-bound.md)
   * [buffer overflow](others/insufficient-session-expiration/buffer-overflow.md)
   * [GraphQL](others/insufficient-session-expiration/graphql.md)
   * [LDAP Injection](others/insufficient-session-expiration/ldap-injection.md)
