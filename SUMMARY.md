@@ -5,6 +5,7 @@
 ## Open Redirection
 
 * [vuls](open-redirection/vuls/README.md)
+  * [others](open-redirection/vuls/others.md)
   * [tabnabbing](open-redirection/vuls/tabnabbing.md)
   * [bypass the domain check](open-redirection/vuls/bypass-the-domain-check.md)
 * [articles](open-redirection/articles/README.md)
@@ -122,6 +123,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [validate session](improper-access-control/vuls/validate-session.md)
   * [x-forwarded-for](improper-access-control/vuls/x-forwarded-for.md)
   * [other](improper-access-control/vuls/other.md)
   * [password reset link](improper-access-control/vuls/password-reset-link.md)
@@ -214,6 +216,7 @@
 * [2021](vuls/2021/README.md)
   * [Untitled](vuls/2021/untitled-1.md)
   * [08](vuls/2021/untitled-2/README.md)
+    * [31](vuls/2021/untitled-2/31.md)
     * [30](vuls/2021/untitled-2/30.md)
     * [29](vuls/2021/untitled-2/29.md)
     * [27](vuls/2021/untitled-2/27.md)
