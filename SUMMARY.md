@@ -5,6 +5,7 @@
 ## Open Redirection
 
 * [vuls](open-redirection/vuls/README.md)
+  * [redirectURL](open-redirection/vuls/redirecturl.md)
   * [others](open-redirection/vuls/others.md)
   * [tabnabbing](open-redirection/vuls/tabnabbing.md)
   * [bypass the domain check](open-redirection/vuls/bypass-the-domain-check.md)
@@ -97,6 +98,7 @@
 
 * [articles](idor/articles.md)
 * [vuls](idor/vuls/README.md)
+  * [api](idor/vuls/api.md)
   * [account](idor/vuls/account.md)
   * [address](idor/vuls/address.md)
   * [profile](idor/vuls/profile.md)
