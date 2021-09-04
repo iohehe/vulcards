@@ -69,6 +69,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [github](information-disclosure/vuls/github.md)
   * [Directory](information-disclosure/vuls/directory.md)
   * [Spring](information-disclosure/vuls/spring.md)
   * [CVE-2013-3827](information-disclosure/vuls/cve-2013-3827.md)
@@ -216,7 +217,9 @@
 ## Log <a id="vuls"></a>
 
 * [2021](vuls/2021/README.md)
-  * [Untitled](vuls/2021/untitled-1.md)
+  * [09](vuls/2021/untitled-1/README.md)
+    * [02](vuls/2021/untitled-1/02.md)
+    * [01](vuls/2021/untitled-1/01.md)
   * [08](vuls/2021/untitled-2/README.md)
     * [31](vuls/2021/untitled-2/31.md)
     * [30](vuls/2021/untitled-2/30.md)
