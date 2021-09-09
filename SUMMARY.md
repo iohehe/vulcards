@@ -69,6 +69,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [database](information-disclosure/vuls/database.md)
   * [github](information-disclosure/vuls/github.md)
   * [Directory](information-disclosure/vuls/directory.md)
   * [Spring](information-disclosure/vuls/spring.md)
@@ -218,6 +219,7 @@
 
 * [2021](vuls/2021/README.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [05](vuls/2021/untitled-1/05.md)
     * [04](vuls/2021/untitled-1/04.md)
     * [03](vuls/2021/untitled-1/03.md)
     * [02](vuls/2021/untitled-1/02.md)
