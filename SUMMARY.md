@@ -71,6 +71,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Path Traversal](information-disclosure/vuls/path-traversal.md)
   * [database](information-disclosure/vuls/database.md)
   * [github](information-disclosure/vuls/github.md)
   * [Directory](information-disclosure/vuls/directory.md)
@@ -129,6 +130,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
+  * [Untitled](improper-access-control/vuls/untitled.md)
   * [validate session](improper-access-control/vuls/validate-session.md)
   * [x-forwarded-for](improper-access-control/vuls/x-forwarded-for.md)
   * [other](improper-access-control/vuls/other.md)
@@ -223,6 +225,7 @@
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [Untitled](vuls/2021/untitled-1/untitled.md)
     * [07](vuls/2021/untitled-1/07.md)
     * [06](vuls/2021/untitled-1/06.md)
     * [05](vuls/2021/untitled-1/05.md)
