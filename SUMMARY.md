@@ -60,6 +60,8 @@
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [tochka.com](subdomain-takeover/vuls/tochka.com.md)
+  * [readymag.com](subdomain-takeover/vuls/readymag.com.md)
   * [AWS S3](subdomain-takeover/vuls/aws-s3.md)
   * [tilda.cc](subdomain-takeover/vuls/tilda.cc.md)
   * [URL in source code](subdomain-takeover/vuls/url-in-source-code.md)
@@ -141,6 +143,7 @@
 ## js/Nodejs <a id="nodejs"></a>
 
 * [vuls](nodejs/vuls/README.md)
+  * [bootstrap](nodejs/vuls/bootstrap.md)
   * [prototype\_pollution](nodejs/vuls/prototype_pollution.md)
   * [NODEJS: core](nodejs/vuls/core.md)
 * [articles](nodejs/articles.md)
@@ -218,7 +221,10 @@
 ## Log <a id="vuls"></a>
 
 * [2021](vuls/2021/README.md)
+  * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [07](vuls/2021/untitled-1/07.md)
+    * [06](vuls/2021/untitled-1/06.md)
     * [05](vuls/2021/untitled-1/05.md)
     * [04](vuls/2021/untitled-1/04.md)
     * [03](vuls/2021/untitled-1/03.md)
