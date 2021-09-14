@@ -130,7 +130,7 @@
 ## Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
-  * [Untitled](improper-access-control/vuls/untitled.md)
+  * [Privilege Escalation](improper-access-control/vuls/untitled.md)
   * [validate session](improper-access-control/vuls/validate-session.md)
   * [x-forwarded-for](improper-access-control/vuls/x-forwarded-for.md)
   * [other](improper-access-control/vuls/other.md)
