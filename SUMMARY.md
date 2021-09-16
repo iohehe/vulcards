@@ -15,6 +15,7 @@
 ## CSRF
 
 * [vuls](csrf/vuls/README.md)
+  * [Account Delection](csrf/vuls/account-delection.md)
   * [graphQL](csrf/vuls/graphql.md)
   * [URL](csrf/vuls/url.md)
   * [Password change](csrf/vuls/password-change.md)
@@ -225,6 +226,7 @@
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [14](vuls/2021/untitled-1/14.md)
     * [13](vuls/2021/untitled-1/13.md)
     * [12](vuls/2021/untitled-1/12.md)
     * [10](vuls/2021/untitled-1/10.md)
