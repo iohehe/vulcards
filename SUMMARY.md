@@ -40,6 +40,7 @@
 ## Cryptographic Issues
 
 * [vuls](cryptographic-issues/vuls/README.md)
+  * [PRNG](cryptographic-issues/vuls/prng.md)
   * [CVE-2018-2879](cryptographic-issues/vuls/cve-2018-2879.md)
   * [SSL MitM](cryptographic-issues/vuls/ssl-mitm.md)
   * [predictable secrets](cryptographic-issues/vuls/predictable-secrets.md)
@@ -174,6 +175,7 @@
     * [error](xss/vuls/reflected/error.md)
     * [URL](xss/vuls/reflected/url.md)
   * [Store](xss/vuls/store/README.md)
+    * [branch name](xss/vuls/store/branch-name.md)
     * [register](xss/vuls/store/register.md)
     * [emoji](xss/vuls/store/emoji.md)
   * [DOM](xss/vuls/dom/README.md)
@@ -226,6 +228,7 @@
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [15](vuls/2021/untitled-1/15.md)
     * [14](vuls/2021/untitled-1/14.md)
     * [13](vuls/2021/untitled-1/13.md)
     * [12](vuls/2021/untitled-1/12.md)

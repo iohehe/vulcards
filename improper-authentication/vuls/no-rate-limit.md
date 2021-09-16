@@ -18,5 +18,17 @@
 
 
 
+## September 16, 2021 
+
+{% embed url="https://hackerone.com/reports/889246" caption="" %}
+
+### How-to:
+
+* Change the Ip address to bypass the rate limit for  **forgot password**
+
+
+
+
+
 
 
