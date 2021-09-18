@@ -1,8 +1,20 @@
 # CVE-2019-8451
 
-Reference: [https://jira.atlassian.com/browse/JRASERVER-69793](https://jira.atlassian.com/browse/JRASERVER-69793)
+### Vul:
 
-Case: [https://hackerone.com/reports/713900](https://hackerone.com/reports/713900)
+{% embed url="https://hackerone.com/reports/713900" %}
+
+### 
+
+### Reference:
+
+
+
+{% embed url="https://jira.atlassian.com/browse/JRASERVER-69793" %}
+
+
+
+### 
 
 ### HOW-TO:
 
