@@ -16,5 +16,9 @@
 
 {% embed url="https://hackerone.com/reports/1257428" %}
 
+### September 20, 2021
+
+{% embed url="https://hackerone.com/reports/981036" %}
+
 
 
