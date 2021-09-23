@@ -62,6 +62,7 @@
 ## SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [AWS EC2](subdomain-takeover/vuls/aws-ec2.md)
   * [tochka.com](subdomain-takeover/vuls/tochka.com.md)
   * [readymag.com](subdomain-takeover/vuls/readymag.com.md)
   * [AWS S3](subdomain-takeover/vuls/aws-s3.md)
@@ -228,6 +229,7 @@
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [17](vuls/2021/untitled-1/17.md)
     * [16](vuls/2021/untitled-1/16.md)
     * [15](vuls/2021/untitled-1/15.md)
     * [14](vuls/2021/untitled-1/14.md)

@@ -1,13 +1,34 @@
 # vuls
 
-[\#953719](https://hackerone.com/reports/953719)Subdomain Takeover – www.jet.acronis.com pointing to unclaimed Webflow services
+### June 19, 2021
 
-[  
-\#38007](https://hackerone.com/reports/38007)Subdomain Takeover using blog.greenhouse.io pointing to Hubspot
+{% embed url="https://hackerone.com/reports/953719" %}
+
+### 
+
+### February 26, 2015: \#38007
+
+{% embed url="https://hackerone.com/reports/38007" %}
 
 
 
-[\#407355](https://hackerone.com/reports/407355)Subdomain Takeover on demo.greenhouse.io pointing to unbouncepages
+### March 5, 2020 7:26pm: \#407355
+
+{% embed url="https://hackerone.com/reports/407355" %}
+
+
+
+### September 18, 2021
+
+{% embed url="https://hackerone.com/reports/1342422" %}
+
+
+
+### September 17, 2021: \#1182864
+
+{% embed url="https://hackerone.com/reports/1182864" %}
+
+
 
 
 
