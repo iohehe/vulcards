@@ -46,3 +46,15 @@
 
 
 
+### September 22, 2021
+
+{% embed url="https://hackerone.com/reports/1248585" %}
+
+### How-to:
+
+* Go to the bottom of the webpage and click on message box.
+* Fill out the form and enter the HTML payload.
+* Check Email inbox HTML tag will be executed.
+
+
+
