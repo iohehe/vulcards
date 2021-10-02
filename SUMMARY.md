@@ -74,6 +74,7 @@
 ## Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [confirmation link](information-disclosure/vuls/confirmation-link.md)
   * [Path Traversal](information-disclosure/vuls/path-traversal.md)
   * [database](information-disclosure/vuls/database.md)
   * [github](information-disclosure/vuls/github.md)
@@ -228,8 +229,8 @@
 
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
-  * [Untitled](vuls/2021/untitled-3.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [23](vuls/2021/untitled-1/23.md)
     * [22](vuls/2021/untitled-1/22.md)
     * [21](vuls/2021/untitled-1/21.md)
     * [20](vuls/2021/untitled-1/20.md)
@@ -323,6 +324,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [CSV Injection](others/insufficient-session-expiration/csv-injection.md)
   * [index out of bound](others/insufficient-session-expiration/index-out-of-bound.md)
   * [buffer overflow](others/insufficient-session-expiration/buffer-overflow.md)
   * [GraphQL](others/insufficient-session-expiration/graphql.md)
