@@ -324,6 +324,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [resource codes](others/insufficient-session-expiration/resource-codes.md)
   * [CSV Injection](others/insufficient-session-expiration/csv-injection.md)
   * [index out of bound](others/insufficient-session-expiration/index-out-of-bound.md)
   * [buffer overflow](others/insufficient-session-expiration/buffer-overflow.md)

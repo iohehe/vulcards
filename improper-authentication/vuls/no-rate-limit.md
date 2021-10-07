@@ -28,7 +28,17 @@
 
 
 
+### September 23, 2021
 
+{% embed url="https://hackerone.com/reports/1065128" %}
+
+### How-to:
+
+The switch-serial : switch-serial=MSA3/8878-XXXXXXX
+
+The last seven numbers can be guessed without the rate limit.
+
+ 
 
 
 
