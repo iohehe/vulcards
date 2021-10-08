@@ -230,6 +230,7 @@
 * [2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [24](vuls/2021/untitled-1/24.md)
     * [23](vuls/2021/untitled-1/23.md)
     * [22](vuls/2021/untitled-1/22.md)
     * [21](vuls/2021/untitled-1/21.md)
