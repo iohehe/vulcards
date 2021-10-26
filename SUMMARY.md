@@ -2,7 +2,7 @@
 
 * [vulcards](README.md)
 
-## Open Redirection
+## 😚 Open Redirection
 
 * [vuls](open-redirection/vuls/README.md)
   * [redirectURL](open-redirection/vuls/redirecturl.md)
@@ -12,7 +12,7 @@
 * [articles](open-redirection/articles/README.md)
   * [tabnabbing](open-redirection/articles/tabnabbing.md)
 
-## CSRF
+## 🤩 CSRF
 
 * [vuls](csrf/vuls/README.md)
   * [Account Delection](csrf/vuls/account-delection.md)
@@ -31,7 +31,7 @@
   * [misconfig](cors/vuls/misconfig.md)
 * [articles](cors/articles.md)
 
-## SSRF <a id="surf"></a>
+## SSRF <a href="surf" id="surf"></a>
 
 * [vuls](surf/vuls/README.md)
   * [CVE-2019-8451](surf/vuls/untitled.md)
@@ -143,18 +143,18 @@
   * [publicly accessible](improper-access-control/vuls/publicly-accessible.md)
   * [403 Bypass](improper-access-control/vuls/403-bypass.md)
   * [token leak](improper-access-control/vuls/token-leak.md)
-  * [No rate limit\(email flooding/email bombing\)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
+  * [No rate limit(email flooding/email bombing)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
 
-## js/Nodejs <a id="nodejs"></a>
+## js/Nodejs <a href="nodejs" id="nodejs"></a>
 
 * [vuls](nodejs/vuls/README.md)
   * [bootstrap](nodejs/vuls/bootstrap.md)
-  * [prototype\_pollution](nodejs/vuls/prototype_pollution.md)
+  * [prototype\_pollution](nodejs/vuls/prototype\_pollution.md)
   * [NODEJS: core](nodejs/vuls/core.md)
 * [articles](nodejs/articles.md)
 
-## Code/Command Injection <a id="code-injection"></a>
+## Code/Command Injection <a href="code-injection" id="code-injection"></a>
 
 * [vuls](code-injection/vuls/README.md)
   * [dependency confusion](code-injection/vuls/dependency-confusion.md)
@@ -167,7 +167,8 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
-    * [html\_url](xss/vuls/reflected/html_url.md)
+    * [file\_name](xss/vuls/reflected/file\_name.md)
+    * [html\_url](xss/vuls/reflected/html\_url.md)
     * [SAMLResponse=](xss/vuls/reflected/samlresponse.md)
     * [callback=](xss/vuls/reflected/callback.md)
     * [email=](xss/vuls/reflected/email.md)
@@ -208,7 +209,7 @@
 
 * [vuls](sql-injection/vuls/README.md)
   * [unit](sql-injection/vuls/unit.md)
-  * [phone\_number](sql-injection/vuls/phone_number.md)
+  * [phone\_number](sql-injection/vuls/phone\_number.md)
   * [Login form](sql-injection/vuls/login-form.md)
   * [xml](sql-injection/vuls/xml.md)
 * [article](sql-injection/article.md)
@@ -225,11 +226,13 @@
 * [articles](external-control-of-critical-state-data/articles.md)
 * [vuls](external-control-of-critical-state-data/vuls.md)
 
-## Log <a id="vuls"></a>
+## Log <a href="vuls" id="vuls"></a>
 
-* [2021](vuls/2021/README.md)
+* [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [28](vuls/2021/untitled-1/28.md)
+    * [26](vuls/2021/untitled-1/26.md)
     * [24](vuls/2021/untitled-1/24.md)
     * [23](vuls/2021/untitled-1/23.md)
     * [22](vuls/2021/untitled-1/22.md)
@@ -334,4 +337,3 @@
   * [in-flight data](others/insufficient-session-expiration/in-flight-data.md)
   * [Insufficient Session Expiration](others/insufficient-session-expiration/insufficient-session-expiration.md)
 * [articles](others/articles.md)
-
