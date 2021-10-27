@@ -16,7 +16,7 @@ using \`X-Forwarded-Host\` header test a SSRF, and use @ symbol bypass. e.g. X-F
 
 ### How-to:
 
-as the code in app/services/projects/download\_service.rb\#
+as the code in app/services/projects/download\_service.rb#
 
 ```ruby
 WHITELIST = [ /^.freeze
@@ -26,12 +26,13 @@ def http?(url) url =~ /\A#{URI::DEFAULT_PARSER.make_regexp(%w(http https))}\z/ e
 def valid_domain?(url) host = URI.parse(url).host WHITELIST.any? { |entry| entry === host } end
 ```
 
-  
+\
 If a vulnerability be identified in a fogbugz.com subdomain, can results a crafted API response including an arbitrary attachment URL, a full read GET based SSRF would be exploitable on \`gitlab.com\`.
 
-* [**GitLab**](https://hackerone.com/gitlab) disclosed a bug submitted by [**ajxchapman**](https://hackerone.com/ajxchapman)  [FogBugz import attachment full SSRF requiring vulnerability in \*.fogbugz.com](https://hackerone.com/reports/1092230)13 Jul 2021 
+* [**GitLab**](https://hackerone.com/gitlab) disclosed a bug submitted by [**ajxchapman**](https://hackerone.com/ajxchapman) \
+  [FogBugz import attachment full SSRF requiring vulnerability in \*.fogbugz.com](https://hackerone.com/reports/1092230)13 Jul 2021&#x20;
 
-as the code in app/services/projects/download\_service.rb\#
+as the code in app/services/projects/download\_service.rb#
 
 ```ruby
 WHITELIST = [ /^.freeze
@@ -41,7 +42,7 @@ def http?(url) url =~ /\A#{URI::DEFAULT_PARSER.make_regexp(%w(http https))}\z/ e
 def valid_domain?(url) host = URI.parse(url).host WHITELIST.any? { |entry| entry === host } end
 ```
 
-  
+\
 If a vulnerability be identified in a fogbugz.com subdomain, can results a crafted API response including an arbitrary attachment URL, a full read GET based SSRF would be exploitable on \`gitlab.com\`.
 
 
@@ -53,8 +54,6 @@ If a vulnerability be identified in a fogbugz.com subdomain, can results a craft
 ## September 17:
 
 {% embed url="https://hackerone.com/reports/978823" %}
-
-
 
 
 

@@ -2,9 +2,11 @@
 
 {% embed url="https://hackerone.com/reports/1241637" %}
 
-{% embed url="https://hackerone.com/reports/1145044" caption="200" %}
+{% embed url="https://hackerone.com/reports/1145044" %}
+200
+{% endembed %}
 
-{% embed url="https://hackerone.com/reports/1095612" caption="1000" %}
-
-
+{% embed url="https://hackerone.com/reports/1095612" %}
+1000
+{% endembed %}
 

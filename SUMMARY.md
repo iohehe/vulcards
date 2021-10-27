@@ -1,6 +1,8 @@
 # Table of contents
 
 * [vulcards](README.md)
+* [👾 HTTP Reuqest Smuggling](http-reuqest-smuggling/README.md)
+  * [vuls](http-reuqest-smuggling/vuls.md)
 
 ## 😚 Open Redirection
 
@@ -72,9 +74,10 @@
   * [DNS](subdomain-takeover/vuls/dns.md)
 * [articles](subdomain-takeover/articles.md)
 
-## Information Disclosure
+## 👺 Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [CVE-2020-14179](information-disclosure/vuls/cve-2020-14179.md)
   * [confirmation link](information-disclosure/vuls/confirmation-link.md)
   * [Path Traversal](information-disclosure/vuls/path-traversal.md)
   * [database](information-disclosure/vuls/database.md)
@@ -168,13 +171,14 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
     * [file\_name](xss/vuls/reflected/file\_name.md)
     * [html\_url](xss/vuls/reflected/html\_url.md)
     * [SAMLResponse=](xss/vuls/reflected/samlresponse.md)
     * [callback=](xss/vuls/reflected/callback.md)
     * [email=](xss/vuls/reflected/email.md)
     * [OAuth Flow](xss/vuls/reflected/oauth-flow.md)
-    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
+    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580-1.md)
     * [Android](xss/vuls/reflected/android.md)
     * [error](xss/vuls/reflected/error.md)
     * [URL](xss/vuls/reflected/url.md)
@@ -232,6 +236,7 @@
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
   * [09](vuls/2021/untitled-1/README.md)
+    * [29](vuls/2021/untitled-1/29.md)
     * [28](vuls/2021/untitled-1/28.md)
     * [26](vuls/2021/untitled-1/26.md)
     * [24](vuls/2021/untitled-1/24.md)

@@ -1,6 +1,6 @@
 # dependency confusion
 
-{% embed url="https://hackerone.com/reports/1104874" caption="$5000" %}
-
-
+{% embed url="https://hackerone.com/reports/1104874" %}
+$5000
+{% endembed %}
 

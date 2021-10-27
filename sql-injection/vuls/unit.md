@@ -1,6 +1,6 @@
 # unit
 
-{% embed url="https://hackerone.com/reports/962889" caption="$1500" %}
-
-
+{% embed url="https://hackerone.com/reports/962889" %}
+$1500
+{% endembed %}
 
