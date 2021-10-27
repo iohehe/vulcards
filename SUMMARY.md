@@ -59,9 +59,10 @@
   * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
 
-## SUBDOMAIN TAKEOVER
+## 🤖 SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [emarsys.net](subdomain-takeover/vuls/emarsys.net.md)
   * [AWS EC2](subdomain-takeover/vuls/aws-ec2.md)
   * [tochka.com](subdomain-takeover/vuls/tochka.com.md)
   * [readymag.com](subdomain-takeover/vuls/readymag.com.md)
