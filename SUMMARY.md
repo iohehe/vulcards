@@ -77,6 +77,7 @@
 ## 👺 Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [DOM clobbering](information-disclosure/vuls/dom-clobbering.md)
   * [CVE-2020-14179](information-disclosure/vuls/cve-2020-14179.md)
   * [confirmation link](information-disclosure/vuls/confirmation-link.md)
   * [Path Traversal](information-disclosure/vuls/path-traversal.md)
@@ -235,6 +236,8 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [Page 2](vuls/2021/10/page-2.md)
+    * [03](vuls/2021/10/03.md)
     * [02](vuls/2021/10/02.md)
     * [01](vuls/2021/10/01.md)
   * [09](vuls/2021/untitled-1/README.md)
