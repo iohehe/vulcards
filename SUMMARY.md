@@ -36,6 +36,7 @@
 ## SSRF <a href="surf" id="surf"></a>
 
 * [vuls](surf/vuls/README.md)
+  * [CVE-2021-22958](surf/vuls/cve-2021-22958.md)
   * [CVE-2019-8451](surf/vuls/untitled.md)
 * [articles](surf/untitled.md)
 
@@ -184,6 +185,7 @@
     * [error](xss/vuls/reflected/error.md)
     * [URL](xss/vuls/reflected/url.md)
   * [Store](xss/vuls/store/README.md)
+    * [Rich Text](xss/vuls/store/rich-text.md)
     * [branch name](xss/vuls/store/branch-name.md)
     * [register](xss/vuls/store/register.md)
     * [emoji](xss/vuls/store/emoji.md)
@@ -211,9 +213,10 @@
   * [Broken link Hijacking](phishing/vuls/broken-link-hijacking.md)
 * [articles](phishing/articles.md)
 
-## SQL Injection
+## 🖌 SQL Injection
 
 * [vuls](sql-injection/vuls/README.md)
+  * [CVE-2019-17558](sql-injection/vuls/cve-2019-17558.md)
   * [unit](sql-injection/vuls/unit.md)
   * [phone\_number](sql-injection/vuls/phone\_number.md)
   * [Login form](sql-injection/vuls/login-form.md)
@@ -236,7 +239,8 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
-    * [Page 2](vuls/2021/10/page-2.md)
+    * [05](vuls/2021/10/05.md)
+    * [04](vuls/2021/10/04.md)
     * [03](vuls/2021/10/03.md)
     * [02](vuls/2021/10/02.md)
     * [01](vuls/2021/10/01.md)
