@@ -239,6 +239,8 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [07](vuls/2021/10/07.md)
+    * [06](vuls/2021/10/06.md)
     * [05](vuls/2021/10/05.md)
     * [04](vuls/2021/10/04.md)
     * [03](vuls/2021/10/03.md)
@@ -343,6 +345,7 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [3rd-party](others/insufficient-session-expiration/3rd-party.md)
   * [resource codes](others/insufficient-session-expiration/resource-codes.md)
   * [CSV Injection](others/insufficient-session-expiration/csv-injection.md)
   * [index out of bound](others/insufficient-session-expiration/index-out-of-bound.md)
