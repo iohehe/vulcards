@@ -7,6 +7,7 @@
 ## 😚 Open Redirection
 
 * [vuls](open-redirection/vuls/README.md)
+  * [JS source code](open-redirection/vuls/js-source-code.md)
   * [redirectURL](open-redirection/vuls/redirecturl.md)
   * [others](open-redirection/vuls/others.md)
   * [tabnabbing](open-redirection/vuls/tabnabbing.md)
@@ -52,9 +53,10 @@
   * [feasible bruteforce attacks](cryptographic-issues/vuls/feasible-bruteforce-attacks.md)
 * [articles](cryptographic-issues/articles.md)
 
-## DoS
+## 🧚♂ DoS
 
 * [vuls](dos/vuls/README.md)
+  * [JS source code](dos/vuls/js-source-code.md)
   * [CVE-2018-6389](dos/vuls/cve-2018-6389.md)
   * [no rate limiting](dos/vuls/no-rate-limiting.md)
   * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
@@ -169,7 +171,7 @@
   * [OpenAM](code-injection/vuls/openam.md)
 * [articles](code-injection/articles.md)
 
-## XSS
+## 🧞♀ XSS
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
@@ -185,6 +187,7 @@
     * [error](xss/vuls/reflected/error.md)
     * [URL](xss/vuls/reflected/url.md)
   * [Store](xss/vuls/store/README.md)
+    * [Grafana](xss/vuls/store/grafana.md)
     * [Rich Text](xss/vuls/store/rich-text.md)
     * [branch name](xss/vuls/store/branch-name.md)
     * [register](xss/vuls/store/register.md)
@@ -239,6 +242,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [11](vuls/2021/10/11.md)
     * [10](vuls/2021/10/10.md)
     * [07](vuls/2021/10/07.md)
     * [06](vuls/2021/10/06.md)
@@ -346,6 +350,8 @@
 ## Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [FUZZ](others/insufficient-session-expiration/fuzz.md)
+  * [Github Security Lab](others/insufficient-session-expiration/github-security-lab.md)
   * [3rd-party](others/insufficient-session-expiration/3rd-party.md)
   * [resource codes](others/insufficient-session-expiration/resource-codes.md)
   * [CSV Injection](others/insufficient-session-expiration/csv-injection.md)
