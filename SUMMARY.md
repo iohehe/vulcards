@@ -67,6 +67,7 @@
 ## 🤖 SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [azure](subdomain-takeover/vuls/azure.md)
   * [wix](subdomain-takeover/vuls/wix.md)
   * [emarsys.net](subdomain-takeover/vuls/emarsys.net.md)
   * [AWS EC2](subdomain-takeover/vuls/aws-ec2.md)
@@ -176,6 +177,7 @@
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
+    * [form](xss/vuls/reflected/form.md)
     * [Open redirect+CRLF](xss/vuls/reflected/open-redirect+crlf.md)
     * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
     * [file\_name](xss/vuls/reflected/file\_name.md)
@@ -244,6 +246,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [13](vuls/2021/10/13.md)
     * [12](vuls/2021/10/12.md)
     * [11](vuls/2021/10/11.md)
     * [10](vuls/2021/10/10.md)
