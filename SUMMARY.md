@@ -156,12 +156,12 @@
   * [No rate limit(email flooding/email bombing)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
 
-## js/Nodejs <a href="nodejs" id="nodejs"></a>
+## 💋 js/Nodejs <a href="nodejs" id="nodejs"></a>
 
 * [vuls](nodejs/vuls/README.md)
   * [bootstrap](nodejs/vuls/bootstrap.md)
   * [prototype\_pollution](nodejs/vuls/prototype\_pollution.md)
-  * [NODEJS: core](nodejs/vuls/core.md)
+  * [NODEJS](nodejs/vuls/core.md)
 * [articles](nodejs/articles.md)
 
 ## Code/Command Injection <a href="code-injection" id="code-injection"></a>
@@ -247,6 +247,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [20](vuls/2021/10/20.md)
     * [19](vuls/2021/10/19.md)
     * [18](vuls/2021/10/18.md)
     * [15](vuls/2021/10/15.md)
