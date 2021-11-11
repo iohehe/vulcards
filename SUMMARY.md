@@ -56,6 +56,7 @@
 ## 🧚♂ DoS
 
 * [vuls](dos/vuls/README.md)
+  * [hash-collision DoS](dos/vuls/hash-collision-dos.md)
   * [JS source code](dos/vuls/js-source-code.md)
   * [CVE-2018-6389](dos/vuls/cve-2018-6389.md)
   * [no rate limiting](dos/vuls/no-rate-limiting.md)
@@ -82,6 +83,7 @@
 ## 👺 Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Web Cache Deception](information-disclosure/vuls/web-cache-deception.md)
   * [DOM clobbering](information-disclosure/vuls/dom-clobbering.md)
   * [CVE-2020-14179](information-disclosure/vuls/cve-2020-14179.md)
   * [confirmation link](information-disclosure/vuls/confirmation-link.md)
@@ -132,6 +134,7 @@
 ## Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
+  * [Diff Platform](improper-authentication/vuls/diff-platform.md)
   * [CVE-2020-3187](improper-authentication/vuls/cve-2020-3187.md)
   * [2FA](improper-authentication/vuls/2fa.md)
   * [SSO](improper-authentication/vuls/sso.md)
@@ -247,6 +250,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [21](vuls/2021/10/21.md)
     * [20](vuls/2021/10/20.md)
     * [19](vuls/2021/10/19.md)
     * [18](vuls/2021/10/18.md)
