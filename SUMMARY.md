@@ -68,6 +68,7 @@
 ## 🤖 SUBDOMAIN TAKEOVER
 
 * [vuls](subdomain-takeover/vuls/README.md)
+  * [bucket](subdomain-takeover/vuls/bucket.md)
   * [azure](subdomain-takeover/vuls/azure.md)
   * [wix](subdomain-takeover/vuls/wix.md)
   * [emarsys.net](subdomain-takeover/vuls/emarsys.net.md)
@@ -366,6 +367,7 @@
 
 * [vuls](others/insufficient-session-expiration/README.md)
   * [FUZZ](others/insufficient-session-expiration/fuzz.md)
+  * [HTTP Headers](others/insufficient-session-expiration/http-headers.md)
   * [Github Security Lab](others/insufficient-session-expiration/github-security-lab.md)
   * [3rd-party](others/insufficient-session-expiration/3rd-party.md)
   * [resource codes](others/insufficient-session-expiration/resource-codes.md)
@@ -382,3 +384,8 @@
 
 * [🤷♂ Source Code](source-code/README.md)
   * [OBI](source-code/obi.md)
+
+## DNS Hijacking
+
+* [articles](dns-hijacking/articles.md)
+* [vuls](dns-hijacking/vuls.md)

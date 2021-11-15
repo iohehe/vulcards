@@ -44,3 +44,11 @@ The last seven numbers can be guessed without the rate limit.
 
 &#x20;
 
+{% embed url="https://hackerone.com/reports/1202408" %}
+
+### How-to:
+
+&#x20;OWASP API TOP10 Lack of Resources & Rate Limiting
+
+post a large number of comments without limitation.
+

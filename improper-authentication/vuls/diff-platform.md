@@ -4,6 +4,6 @@
 
 ### How-to:&#x20;
 
-1. use the website setting close the shop.
+1. using the website setting close the shop.
 2. when you need to confirm with password, stay here.
 3. use the mobile APP do the same operator without any authentication.
