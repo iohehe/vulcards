@@ -56,13 +56,13 @@
 ## 🧚♂ DoS
 
 * [vuls](dos/vuls/README.md)
+  * [file uplodes](dos/vuls/file-uplodes.md)
   * [hash-collision DoS](dos/vuls/hash-collision-dos.md)
   * [JS source code](dos/vuls/js-source-code.md)
   * [CVE-2018-6389](dos/vuls/cve-2018-6389.md)
   * [no rate limiting](dos/vuls/no-rate-limiting.md)
   * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
   * [CPDoS](dos/vuls/cpdos.md)
-  * [attachments](dos/vuls/attachments.md)
 * [articles](dos/article.md)
 
 ## 🤖 SUBDOMAIN TAKEOVER
@@ -120,6 +120,7 @@
 
 * [articles](idor/articles.md)
 * [vuls](idor/vuls/README.md)
+  * [attachments](idor/vuls/attachments.md)
   * [api](idor/vuls/api.md)
   * [account](idor/vuls/account.md)
   * [address](idor/vuls/address.md)
@@ -251,6 +252,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [27](vuls/2021/10/27.md)
     * [23](vuls/2021/10/23.md)
     * [22](vuls/2021/10/22.md)
     * [21](vuls/2021/10/21.md)
