@@ -367,9 +367,10 @@
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
 
-## Others
+## 🌊 Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [Race Condition](others/insufficient-session-expiration/race-condition.md)
   * [FUZZ](others/insufficient-session-expiration/fuzz.md)
   * [HTTP Headers](others/insufficient-session-expiration/http-headers.md)
   * [Github Security Lab](others/insufficient-session-expiration/github-security-lab.md)
