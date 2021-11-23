@@ -370,6 +370,7 @@
 ## 🌊 Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [App](others/insufficient-session-expiration/app.md)
   * [Race Condition](others/insufficient-session-expiration/race-condition.md)
   * [FUZZ](others/insufficient-session-expiration/fuzz.md)
   * [HTTP Headers](others/insufficient-session-expiration/http-headers.md)
