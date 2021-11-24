@@ -271,6 +271,7 @@
     * [03](vuls/2021/10/03.md)
     * [02](vuls/2021/10/02.md)
     * [01](vuls/2021/10/01.md)
+    * [28](vuls/2021/10/28.md)
   * [09](vuls/2021/untitled-1/README.md)
     * [29](vuls/2021/untitled-1/29.md)
     * [28](vuls/2021/untitled-1/28.md)
