@@ -252,6 +252,7 @@
 
 * [🌞 2021](vuls/2021/README.md)
   * [10](vuls/2021/10.md)
+    * [30](vuls/2021/10/30.md)
     * [27](vuls/2021/10/27.md)
     * [23](vuls/2021/10/23.md)
     * [22](vuls/2021/10/22.md)
@@ -371,6 +372,7 @@
 ## 🌊 Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [CRLF Injection](others/insufficient-session-expiration/crlf-injection.md)
   * [App](others/insufficient-session-expiration/app.md)
   * [Race Condition](others/insufficient-session-expiration/race-condition.md)
   * [FUZZ](others/insufficient-session-expiration/fuzz.md)
