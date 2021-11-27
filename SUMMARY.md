@@ -251,6 +251,8 @@
 ## Log <a href="vuls" id="vuls"></a>
 
 * [🌞 2021](vuls/2021/README.md)
+  * [11](vuls/2021/11/README.md)
+    * [02](vuls/2021/11/02.md)
   * [10](vuls/2021/10.md)
     * [30](vuls/2021/10/30.md)
     * [27](vuls/2021/10/27.md)
