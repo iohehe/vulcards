@@ -34,7 +34,7 @@
   * [misconfig](cors/vuls/misconfig.md)
 * [articles](cors/articles.md)
 
-## SSRF <a href="surf" id="surf"></a>
+## SSRF <a href="#surf" id="surf"></a>
 
 * [vuls](surf/vuls/README.md)
   * [CVE-2021-22958](surf/vuls/cve-2021-22958.md)
@@ -84,6 +84,7 @@
 ## 👺 Information Disclosure
 
 * [vuls](information-disclosure/vuls/README.md)
+  * [Tomcat](information-disclosure/vuls/tomcat.md)
   * [Web Cache Deception](information-disclosure/vuls/web-cache-deception.md)
   * [DOM clobbering](information-disclosure/vuls/dom-clobbering.md)
   * [CVE-2020-14179](information-disclosure/vuls/cve-2020-14179.md)
@@ -161,7 +162,7 @@
   * [No rate limit(email flooding/email bombing)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
 * [articles](improper-access-control/articles.md)
 
-## 💋 js/Nodejs <a href="nodejs" id="nodejs"></a>
+## 💋 js/Nodejs <a href="#nodejs" id="nodejs"></a>
 
 * [vuls](nodejs/vuls/README.md)
   * [bootstrap](nodejs/vuls/bootstrap.md)
@@ -169,7 +170,7 @@
   * [NODEJS](nodejs/vuls/core.md)
 * [articles](nodejs/articles.md)
 
-## Code/Command Injection <a href="code-injection" id="code-injection"></a>
+## Code/Command Injection <a href="#code-injection" id="code-injection"></a>
 
 * [vuls](code-injection/vuls/README.md)
   * [dependency confusion](code-injection/vuls/dependency-confusion.md)
@@ -248,10 +249,11 @@
 * [articles](external-control-of-critical-state-data/articles.md)
 * [vuls](external-control-of-critical-state-data/vuls.md)
 
-## Log <a href="vuls" id="vuls"></a>
+## Log <a href="#vuls" id="vuls"></a>
 
 * [🌞 2021](vuls/2021/README.md)
   * [11](vuls/2021/11/README.md)
+    * [03](vuls/2021/11/03.md)
     * [02](vuls/2021/11/02.md)
   * [10](vuls/2021/10.md)
     * [30](vuls/2021/10/30.md)
