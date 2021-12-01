@@ -10,5 +10,15 @@ return with access\_token...
 
 
 
+## 06
+
+### \[Logitech] clickjacking on deleting user's clips \[https://crossclip.com/clips]
+
+
+
+##
+
+
+
 
 

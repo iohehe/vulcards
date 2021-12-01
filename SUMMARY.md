@@ -376,6 +376,7 @@
 ## 🌊 Others
 
 * [vuls](others/insufficient-session-expiration/README.md)
+  * [IBB](others/insufficient-session-expiration/ibb.md)
   * [CRLF Injection](others/insufficient-session-expiration/crlf-injection.md)
   * [App](others/insufficient-session-expiration/app.md)
   * [Race Condition](others/insufficient-session-expiration/race-condition.md)
