@@ -27,21 +27,21 @@
   * [CSRF with QR Login](csrf/vuls/untitled-1.md)
 * [articles](csrf/articles.md)
 
-## CORS
+## 😏 CORS
 
 * [vuls](cors/vuls/README.md)
   * [CORS+XSS](cors/vuls/cors+xss.md)
   * [misconfig](cors/vuls/misconfig.md)
 * [articles](cors/articles.md)
 
-## SSRF <a href="#surf" id="surf"></a>
+## 🥳 SSRF <a href="#surf" id="surf"></a>
 
 * [vuls](surf/vuls/README.md)
   * [CVE-2021-22958](surf/vuls/cve-2021-22958.md)
   * [CVE-2019-8451](surf/vuls/untitled.md)
 * [articles](surf/untitled.md)
 
-## Cryptographic Issues
+## 🧞 Cryptographic Issues
 
 * [vuls](cryptographic-issues/vuls/README.md)
   * [PRNG](cryptographic-issues/vuls/prng.md)
@@ -112,12 +112,12 @@
   * [EXIF](information-disclosure/vuls/exif.md)
 * [articles](information-disclosure/articles.md)
 
-## XXE
+## 🧘 XXE
 
 * [vuls](xxe/vuls.md)
 * [articles](xxe/articles.md)
 
-## IDOR
+## 😱 IDOR
 
 * [articles](idor/articles.md)
 * [vuls](idor/vuls/README.md)
@@ -127,14 +127,14 @@
   * [address](idor/vuls/address.md)
   * [profile](idor/vuls/profile.md)
 
-## Improper Certificate Validation
+## 🍉 Improper Certificate Validation
 
 * [vuls](improper-certificate-validation/vuls/README.md)
   * [SSL](improper-certificate-validation/vuls/ssl.md)
   * [Spring](improper-certificate-validation/vuls/spring.md)
 * [articles](improper-certificate-validation/articles.md)
 
-## Improper Authentication
+## 🎂 Improper Authentication
 
 * [vuls](improper-authentication/vuls/README.md)
   * [Diff Platform](improper-authentication/vuls/diff-platform.md)
@@ -147,7 +147,7 @@
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
 * [articles](improper-authentication/articles.md)
 
-## Improper Access Control
+## 🍟 Improper Access Control
 
 * [vuls](improper-access-control/vuls/README.md)
   * [Privilege Escalation](improper-access-control/vuls/untitled.md)
@@ -170,7 +170,7 @@
   * [NODEJS](nodejs/vuls/core.md)
 * [articles](nodejs/articles.md)
 
-## Code/Command Injection <a href="#code-injection" id="code-injection"></a>
+## 🍭 Code/Command Injection <a href="#code-injection" id="code-injection"></a>
 
 * [vuls](code-injection/vuls/README.md)
   * [dependency confusion](code-injection/vuls/dependency-confusion.md)
@@ -179,7 +179,7 @@
   * [OpenAM](code-injection/vuls/openam.md)
 * [articles](code-injection/articles.md)
 
-## 🧞♀ XSS
+## 📌 XSS
 
 * [vuls](xss/vuls/README.md)
   * [Reflected](xss/vuls/reflected/README.md)
@@ -207,19 +207,19 @@
     * [innerHTML](xss/vuls/dom/innerhtml.md)
 * [articles](xss/articles.md)
 
-## Violation of Secure Design Principles
+## 🧝♀ Violation of Secure Design Principles
 
 * [vuls](violation-of-secure-design-principles/vuls/README.md)
   * [Text Injection](violation-of-secure-design-principles/vuls/text-injection.md)
 * [articles](violation-of-secure-design-principles/articles.md)
 
-## Business Logic Errors
+## 🏎 Business Logic Errors
 
 * [vuls](business-logic-errors/vuls/README.md)
   * [x-Forwarded-For](business-logic-errors/vuls/untitled.md)
 * [articles](business-logic-errors/articles.md)
 
-## Phishing
+## 🛸 Phishing
 
 * [vuls](phishing/vuls/README.md)
   * [page name](phishing/vuls/page-name.md)
@@ -251,6 +251,8 @@
 
 ## Log <a href="#vuls" id="vuls"></a>
 
+* [💪 2022](vuls/2022/README.md)
+  * [🦧 01](vuls/2022/01.md)
 * [🌞 2021](vuls/2021/README.md)
   * [12](vuls/2021/12.md)
   * [11](vuls/2021/11/README.md)
@@ -404,3 +406,9 @@
 
 * [articles](dns-hijacking/articles.md)
 * [vuls](dns-hijacking/vuls.md)
+
+## 🏖 Spoofing
+
+* [vuls](spoofing/vuls/README.md)
+  * [Email spoofing](spoofing/vuls/email-spoofing.md)
+* [articles](spoofing/articles.md)
