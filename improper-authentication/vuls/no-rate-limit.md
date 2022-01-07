@@ -28,7 +28,7 @@ No rate limiting for confirmation email lead to email flooding
 
 ### How-to:
 
-* Change the Ip address to bypass the rate limit for ** forgot password**
+* Change the Ip address to bypass the rate limit for **forgot password**
 
 
 

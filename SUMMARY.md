@@ -63,6 +63,7 @@
   * [no rate limiting](dos/vuls/no-rate-limiting.md)
   * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
   * [CPDoS](dos/vuls/cpdos.md)
+  * [%0A](dos/vuls/0a.md)
 * [articles](dos/article.md)
 
 ## 🤖 SUBDOMAIN TAKEOVER
@@ -390,7 +391,6 @@
   * [resource codes](others/insufficient-session-expiration/resource-codes.md)
   * [CSV Injection](others/insufficient-session-expiration/csv-injection.md)
   * [index out of bound](others/insufficient-session-expiration/index-out-of-bound.md)
-  * [buffer overflow](others/insufficient-session-expiration/buffer-overflow.md)
   * [GraphQL](others/insufficient-session-expiration/graphql.md)
   * [LDAP Injection](others/insufficient-session-expiration/ldap-injection.md)
   * [in-flight data](others/insufficient-session-expiration/in-flight-data.md)
@@ -412,3 +412,7 @@
 * [vuls](spoofing/vuls/README.md)
   * [Email spoofing](spoofing/vuls/email-spoofing.md)
 * [articles](spoofing/articles.md)
+
+## Group 1
+
+* [🧂 BoF](group-1/bof.md)
