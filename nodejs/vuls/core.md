@@ -7,3 +7,5 @@ OOB read in libuv
 {% embed url="https://hackerone.com/reports/1238709" %}
 
 {% embed url="https://hackerone.com/reports/1238099" %}
+
+{% embed url="https://hackerone.com/reports/1431042" %}

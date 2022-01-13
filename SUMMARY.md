@@ -238,14 +238,14 @@
   * [xml](sql-injection/vuls/xml.md)
 * [article](sql-injection/article.md)
 
-## OS Command Injection
+## 🤩 OS Command Injection
 
 * [vuls](os-command-injection/vuls/README.md)
   * [jFrog credentials](os-command-injection/vuls/jfrog-credentials.md)
   * [Exposed Kubernetes API](os-command-injection/vuls/exposed-kubernetes-api.md)
 * [articles](os-command-injection/articles.md)
 
-## External Control of Critical State Data
+## 🥳 External Control of Critical State Data
 
 * [articles](external-control-of-critical-state-data/articles.md)
 * [vuls](external-control-of-critical-state-data/vuls.md)
@@ -413,6 +413,6 @@
   * [Email spoofing](spoofing/vuls/email-spoofing.md)
 * [articles](spoofing/articles.md)
 
-## Group 1
+## 🤔 Bin
 
-* [🧂 BoF](group-1/bof.md)
+* [🧂 BoF](bin/bof.md)
