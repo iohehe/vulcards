@@ -253,6 +253,7 @@
 ## Log <a href="#vuls" id="vuls"></a>
 
 * [💪 2022](vuls/2022/README.md)
+  * [😅 02](vuls/2022/02.md)
   * [🦧 01](vuls/2022/01.md)
 * [🌞 2021](vuls/2021/README.md)
   * [12](vuls/2021/12.md)
