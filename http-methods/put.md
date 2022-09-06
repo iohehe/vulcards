@@ -13,7 +13,7 @@ The HTTP PUT method can be used to upload data that is saved on the server.
 * Access-Control-Allow-Methods indicates which HTTP methods are allowed on a particular endpoint for cross-origin requrests.
 * Let's change the method from OPTIONS to PUT and check for the allowed methods.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 If the PUT method appears to be present and enabled, we can even upload backdoor and application will respond with 201 created response as shown in the blow Exhibit:
 
@@ -21,7 +21,7 @@ If the PUT method appears to be present and enabled, we can even upload backdoor
 
 ![](<../.gitbook/assets/image (2).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 * You may receive 405 status code if you attempt to use the PUT method where it is not supported.
 
