@@ -433,3 +433,7 @@
 
 * [🐼 HTTP Methods](http-methods/README.md)
   * [PUT](http-methods/put.md)
+
+## 😋 Modules
+
+* [Password reset](modules/password-reset.md)
