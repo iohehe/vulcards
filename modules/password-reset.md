@@ -27,4 +27,14 @@ description: https://anugrahsr.github.io/posts/10-Password-reset-flaws/
 
 
 
+
+
+## Passby the validation to ATO
+
+
+
+[https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58](https://0xmahmoudjo0.medium.com/admin-account-takeover-via-weird-password-reset-functionality-166ce90b1e58)&#x20;
+
+
+
 \
