@@ -313,6 +313,7 @@
 ## 🍭 Code/Command Injection <a href="#code-injection" id="code-injection"></a>
 
 * [vuls](code-injection/vuls/README.md)
+  * [log4j](code-injection/vuls/log4j.md)
   * [dependency confusion](code-injection/vuls/dependency-confusion.md)
   * [deserialize](code-injection/vuls/deserialize.md)
   * [Pulse Secure SSL VPN](code-injection/vuls/pulse-secure-ssl-vpn.md)
