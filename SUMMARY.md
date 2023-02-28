@@ -172,10 +172,7 @@
 
 ## 😏 CORS
 
-* [vuls](cors/vuls/README.md)
-  * [CORS+XSS](cors/vuls/cors+xss.md)
-  * [misconfig](cors/vuls/misconfig.md)
-* [articles](cors/articles.md)
+* [Intro](cors/articles.md)
 
 ## 🥳 SSRF <a href="#surf" id="surf"></a>
 
