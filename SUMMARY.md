@@ -4,6 +4,21 @@
 
 ## 🌞 Log <a href="#vuls" id="vuls"></a>
 
+* [☺ 2023](vuls/2023/README.md)
+  * [😁 02](vuls/2023/02.md)
+  * [🥳 01](vuls/2023/01.md)
+* [💪 2022](vuls/2022/README.md)
+  * [😁 11](vuls/2022/11.md)
+  * [😉 10](vuls/2022/10.md)
+  * [🤩 09](vuls/2022/09.md)
+  * [😝 08](vuls/2022/08.md)
+  * [🙄 07](vuls/2022/07.md)
+  * [🤏 06](vuls/2022/06.md)
+  * [😂 05](vuls/2022/05.md)
+  * [🥳 04](vuls/2022/04.md)
+  * [😛 03](vuls/2022/03.md)
+  * [😅 02](vuls/2022/02.md)
+  * [🦧 01](vuls/2022/01.md)
 * [👍 2021](vuls/2021/README.md)
   * [12](vuls/2021/12.md)
   * [11](vuls/2021/11/README.md)
@@ -126,37 +141,16 @@
     * [11](vuls/2021/6/11.md)
     * [10](vuls/2021/6/10.md)
     * [09](vuls/2021/6/09.md)
-* [☺ 2023](vuls/2023/README.md)
-  * [😁 02](vuls/2023/02.md)
-  * [🥳 01](vuls/2023/01.md)
-* [💪 2022](vuls/2022/README.md)
-  * [😁 11](vuls/2022/11.md)
-  * [😉 10](vuls/2022/10.md)
-  * [🤩 09](vuls/2022/09.md)
-  * [😝 08](vuls/2022/08.md)
-  * [🙄 07](vuls/2022/07.md)
-  * [🤏 06](vuls/2022/06.md)
-  * [😂 05](vuls/2022/05.md)
-  * [🥳 04](vuls/2022/04.md)
-  * [😛 03](vuls/2022/03.md)
-  * [😅 02](vuls/2022/02.md)
-  * [🦧 01](vuls/2022/01.md)
+
+## 😋 Summary
+
+* [😚 Open Redirection](summary/open-redirection.md)
+* [🙅♂ Password reset](summary/password-reset.md)
 
 ***
 
 * [👾 HTTP Reuqest Smuggling](http-reuqest-smuggling/README.md)
   * [vuls](http-reuqest-smuggling/vuls.md)
-
-## 😚 Open Redirection
-
-* [vuls](open-redirection/vuls/README.md)
-  * [JS source code](open-redirection/vuls/js-source-code.md)
-  * [redirectURL](open-redirection/vuls/redirecturl.md)
-  * [others](open-redirection/vuls/others.md)
-  * [tabnabbing](open-redirection/vuls/tabnabbing.md)
-  * [bypass the domain check](open-redirection/vuls/bypass-the-domain-check.md)
-* [articles](open-redirection/articles/README.md)
-  * [tabnabbing](open-redirection/articles/tabnabbing.md)
 
 ## 🤩 CSRF
 
@@ -437,7 +431,3 @@
 
 * [🐼 HTTP Methods](http-methods/README.md)
   * [PUT](http-methods/put.md)
-
-## 😋 Modules
-
-* [Password reset](modules/password-reset.md)
