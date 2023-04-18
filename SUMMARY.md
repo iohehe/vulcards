@@ -144,6 +144,7 @@
 
 ## 😋 Summary
 
+* [🧶 SSRF](summary/ssrf.md)
 * [😚 Open Redirection](summary/open-redirection.md)
 * [🙅♂ Password reset](summary/password-reset.md)
 
@@ -167,13 +168,6 @@
 ## 😏 CORS
 
 * [Intro](cors/articles.md)
-
-## 🥳 SSRF <a href="#surf" id="surf"></a>
-
-* [vuls](surf/vuls/README.md)
-  * [CVE-2021-22958](surf/vuls/cve-2021-22958.md)
-  * [CVE-2019-8451](surf/vuls/untitled.md)
-* [articles](surf/untitled.md)
 
 ## 🧞 Cryptographic Issues
 

@@ -1,20 +1,24 @@
-# vuls
+# 🧶 SSRF
 
-## June 9, 2021:
+##
+
+## Vuls:
+
+### 0x01&#x20;
 
 {% embed url="https://hackerone.com/reports/727330" %}
 
-### How-to:
+> How-to:
 
 using \`X-Forwarded-Host\` header test a SSRF, and use @ symbol bypass. e.g. X-Forwarded-Host: a.com@vul.com
 
 
 
-## July 13, 2021
+### 0x02
 
 {% embed url="https://hackerone.com/reports/1092230" %}
 
-### How-to:
+> How-to:
 
 as the code in app/services/projects/download\_service.rb#
 
@@ -47,13 +51,30 @@ If a vulnerability be identified in a fogbugz.com subdomain, can results a craft
 
 
 
-
-
-
-
-## September 17:
+### 0x03
 
 {% embed url="https://hackerone.com/reports/978823" %}
 
+### 0x04 cve-2021-22958
 
+{% embed url="https://hackerone.com/reports/863221" %}
 
+### 0x05 cve-2019-8451
+
+{% embed url="https://hackerone.com/reports/713900" %}
+
+> HOW-TO:
+
+Test the path: /plugins/servlet/gadgets/makeRequest
+
+![SSRF](<../.gitbook/assets/image (9) (3).png>)
+
+> reference:
+
+{% embed url="https://jira.atlassian.com/browse/JRASERVER-69793" %}
+
+##
+
+## Articles:
+
+{% embed url="https://www.hackerone.com/application-security/how-server-side-request-forgery-ssrf" %}
