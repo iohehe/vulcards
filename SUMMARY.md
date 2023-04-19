@@ -144,9 +144,10 @@
 
 ## 😋 Summary
 
+* [☄ DoS](summary/dos.md)
 * [🧶 SSRF](summary/ssrf.md)
-* [😚 Open Redirection](summary/open-redirection.md)
-* [🙅♂ Password reset](summary/password-reset.md)
+* [🔗 Open Redirection](summary/open-redirection.md)
+* [🌀 Password Reset](summary/password-reset.md)
 
 ***
 
@@ -180,19 +181,6 @@
   * [chosen plaintext attacks](cryptographic-issues/vuls/chosen-plaintext-attacks.md)
   * [feasible bruteforce attacks](cryptographic-issues/vuls/feasible-bruteforce-attacks.md)
 * [articles](cryptographic-issues/articles.md)
-
-## 🧚♂ DoS
-
-* [vuls](dos/vuls/README.md)
-  * [file uplodes](dos/vuls/file-uplodes.md)
-  * [hash-collision DoS](dos/vuls/hash-collision-dos.md)
-  * [JS source code](dos/vuls/js-source-code.md)
-  * [CVE-2018-6389](dos/vuls/cve-2018-6389.md)
-  * [no rate limiting](dos/vuls/no-rate-limiting.md)
-  * [Ip-in-Ip](dos/vuls/ip-in-ip.md)
-  * [CPDoS](dos/vuls/cpdos.md)
-  * [%0A](dos/vuls/0a.md)
-* [articles](dos/article.md)
 
 ## 🤖 SUBDOMAIN TAKEOVER
 

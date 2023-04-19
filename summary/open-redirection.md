@@ -1,4 +1,4 @@
-# 😚 Open Redirection
+# 🔗 Open Redirection
 
 ## Payloads:
 

@@ -2,7 +2,7 @@
 description: https://anugrahsr.github.io/posts/10-Password-reset-flaws/
 ---
 
-# Password reset
+# 🌀 Password Reset
 
 ## Test the password reset token leakage.  <a href="#exploitation" id="exploitation"></a>
 

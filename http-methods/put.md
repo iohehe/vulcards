@@ -19,7 +19,7 @@ If the PUT method appears to be present and enabled, we can even upload backdoor
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 ![](<../.gitbook/assets/image (1).png>)
 
