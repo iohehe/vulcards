@@ -21,7 +21,7 @@ If the PUT method appears to be present and enabled, we can even upload backdoor
 
 ![](<../.gitbook/assets/image (2) (2).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 * You may receive 405 status code if you attempt to use the PUT method where it is not supported.
 
