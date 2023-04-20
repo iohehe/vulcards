@@ -22,6 +22,6 @@
 2. Name the project `attacking_project` and click "Create project"
 3. Now the project will load and the alert should pop up.
 
-![](<../../../.gitbook/assets/image (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)
 
 optional: 9. On the project main page click the "Invite members" button and invite `victim01` as a Developer 10. Log in with `victim01` 11. Visit [https://gitlab.domain.com/attack\_group/attacking-project](https://gitlab.domain.com/attack\_group/attacking-project) and the script will run for the victim as well

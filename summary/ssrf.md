@@ -4,9 +4,9 @@
 
 ## Vuls:
 
-### 0x01&#x20;
+### 0x01 Header modification results in disclosure of Slack infra metadata to unauthorized parties&#x20;
 
-{% embed url="https://hackerone.com/reports/727330" %}
+> [https://hackerone.com/reports/727330](https://hackerone.com/reports/727330)
 
 > How-to:
 
@@ -14,9 +14,9 @@ using \`X-Forwarded-Host\` header test a SSRF, and use @ symbol bypass. e.g. X-F
 
 
 
-### 0x02
+### 0x0 2FogBugz import attachment full SSRF requiring vulnerability in \*.fogbugz.com
 
-{% embed url="https://hackerone.com/reports/1092230" %}
+> [https://hackerone.com/reports/1092230](https://hackerone.com/reports/1092230)
 
 > How-to:
 
@@ -51,9 +51,9 @@ If a vulnerability be identified in a fogbugz.com subdomain, can results a craft
 
 
 
-### 0x03
+### 0x03 SSRF to AWS file read
 
-{% embed url="https://hackerone.com/reports/978823" %}
+> [https://hackerone.com/reports/978823](https://hackerone.com/reports/978823)
 
 ### 0x04 cve-2021-22958
 
@@ -72,6 +72,14 @@ Test the path: /plugins/servlet/gadgets/makeRequest
 > reference:
 
 {% embed url="https://jira.atlassian.com/browse/JRASERVER-69793" %}
+
+### 0x06 lax checking on IPs
+
+> [https://github.com/nextcloud/security-advisories/security/advisories/GHSA-mqrx-grp7-244m](https://github.com/nextcloud/security-advisories/security/advisories/GHSA-mqrx-grp7-244m)
+
+> [https://vulners.com/nextcloud/GHSA-MQRX-GRP7-244M](https://vulners.com/nextcloud/GHSA-MQRX-GRP7-244M)
+
+ip = ⑯⑨。②⑤④。⑯⑨｡②⑤④
 
 ##
 
