@@ -266,21 +266,6 @@
   * [Account takeover](improper-authentication/vuls/account-takeover.md)
 * [articles](improper-authentication/articles.md)
 
-## 🍟 Improper Access Control
-
-* [vuls](improper-access-control/vuls/README.md)
-  * [Privilege Escalation](improper-access-control/vuls/untitled.md)
-  * [validate session](improper-access-control/vuls/validate-session.md)
-  * [x-forwarded-for](improper-access-control/vuls/x-forwarded-for.md)
-  * [other](improper-access-control/vuls/other.md)
-  * [password reset link](improper-access-control/vuls/password-reset-link.md)
-  * [account](improper-access-control/vuls/account.md)
-  * [publicly accessible](improper-access-control/vuls/publicly-accessible.md)
-  * [403 Bypass](improper-access-control/vuls/403-bypass.md)
-  * [token leak](improper-access-control/vuls/token-leak.md)
-  * [No rate limit(email flooding/email bombing)](improper-access-control/vuls/no-rate-limit-email-flooding-email-bombing.md)
-* [articles](improper-access-control/articles.md)
-
 ## 💋 js/Nodejs <a href="#nodejs" id="nodejs"></a>
 
 * [vuls](nodejs/vuls/README.md)
