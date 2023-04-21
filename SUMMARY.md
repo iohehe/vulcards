@@ -144,6 +144,7 @@
 
 ## 😋 Summary
 
+* [🛸 Improper access control](summary/improper-access-control.md)
 * [☄ DoS](summary/dos.md)
 * [🧶 SSRF](summary/ssrf.md)
 * [🔗 Open Redirection](summary/open-redirection.md)
