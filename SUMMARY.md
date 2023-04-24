@@ -150,6 +150,7 @@
 * [🧶 SSRF](summary/ssrf.md)
 * [🔗 Open Redirection](summary/open-redirection.md)
 * [🌀 Password Reset](summary/password-reset.md)
+* [⏰ Race Condition](summary/race-condition.md)
 
 ***
 
