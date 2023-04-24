@@ -135,3 +135,9 @@
 
 
 
+## 0x28 CVE-2018-11409
+
+CVE-2018-11409, use can add \`\_\_raw/services/server/info/server-info?output\_mode=json\` after the query to get a license key.
+
+
+
