@@ -200,38 +200,6 @@
   * [DNS](subdomain-takeover/vuls/dns.md)
 * [articles](subdomain-takeover/articles.md)
 
-## 👺 Information Disclosure
-
-* [vuls](information-disclosure/vuls/README.md)
-  * [CVE-2020-3452](information-disclosure/vuls/cve-2020-3452.md)
-  * [Tomcat](information-disclosure/vuls/tomcat.md)
-  * [Web Cache Deception](information-disclosure/vuls/web-cache-deception.md)
-  * [DOM clobbering](information-disclosure/vuls/dom-clobbering.md)
-  * [CVE-2020-14179](information-disclosure/vuls/cve-2020-14179.md)
-  * [confirmation link](information-disclosure/vuls/confirmation-link.md)
-  * [Path Traversal](information-disclosure/vuls/path-traversal.md)
-  * [database](information-disclosure/vuls/database.md)
-  * [github](information-disclosure/vuls/github.md)
-  * [Directory](information-disclosure/vuls/directory.md)
-  * [Spring](information-disclosure/vuls/spring.md)
-  * [CVE-2013-3827](information-disclosure/vuls/cve-2013-3827.md)
-  * [CUI](information-disclosure/vuls/cui.md)
-  * [Salesforce](information-disclosure/vuls/salesforce.md)
-  * [LDAP](information-disclosure/vuls/ldap.md)
-  * [JSON-RPC](information-disclosure/vuls/json-rpc.md)
-  * [HTTP/2](information-disclosure/vuls/http-2.md)
-  * [CISCO ASA](information-disclosure/vuls/cisco-asa.md)
-  * [Gitlab Ticket](information-disclosure/vuls/gitlab-ticket.md)
-  * [filename](information-disclosure/vuls/filename.md)
-  * [403](information-disclosure/vuls/403.md)
-  * [Request Log](information-disclosure/vuls/request-log.md)
-  * [404](information-disclosure/vuls/404.md)
-  * [package.js](information-disclosure/vuls/package.js.md)
-  * [API](information-disclosure/vuls/api.md)
-  * [Exfiltrating](information-disclosure/vuls/exfiltrating.md)
-  * [EXIF](information-disclosure/vuls/exif.md)
-* [articles](information-disclosure/articles.md)
-
 ## 🧘 XXE
 
 * [vuls](xxe/vuls.md)
