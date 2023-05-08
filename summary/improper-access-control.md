@@ -104,6 +104,23 @@ curl -H "Content-Length:0" -X POST [U](https://www.xn--4zhaaaaaaa.mil/%E2%96%88%
 
 
 
+### 0x10 Removed users
+
+Sometimes you can still use the cookie to do sensitive operations after removing the user.
+
+> [https://hackerone.com/reports/1479894](https://hackerone.com/reports/1479894)
+
+How-To:
+
+* Step1: Login to your administrator account
+* Step2: Click on "Invite teammates" and add a "user".
+* Step3: View and accept the Invitation received via email and set up your account
+* Step4:  Now from that account just perform any action to get cookie&#x20;
+* Step5: Now go to the main user account and remove this invited user.
+* Step6: Observed that removed users can still have READ/WRITE access to the workspace.
+
+
+
 ### Others
 
 > [https://hackerone.com/reports/1234746](https://hackerone.com/reports/1234746)
