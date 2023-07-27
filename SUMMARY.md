@@ -152,6 +152,7 @@
 * [🔗 Open Redirection](summary/open-redirection.md)
 * [🌀 Password Reset](summary/password-reset.md)
 * [⏰ Race Condition](summary/race-condition.md)
+* [❌ XSS](summary/xss.md)
 
 ***
 
@@ -254,34 +255,6 @@
   * [Pulse Secure SSL VPN](code-injection/vuls/pulse-secure-ssl-vpn.md)
   * [OpenAM](code-injection/vuls/openam.md)
 * [articles](code-injection/articles.md)
-
-## 📌 XSS
-
-* [vuls](xss/vuls/README.md)
-  * [Reflected](xss/vuls/reflected/README.md)
-    * [form](xss/vuls/reflected/form.md)
-    * [Open redirect+CRLF](xss/vuls/reflected/open-redirect+crlf.md)
-    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580.md)
-    * [file\_name](xss/vuls/reflected/file\_name.md)
-    * [html\_url](xss/vuls/reflected/html\_url.md)
-    * [SAMLResponse=](xss/vuls/reflected/samlresponse.md)
-    * [callback=](xss/vuls/reflected/callback.md)
-    * [email=](xss/vuls/reflected/email.md)
-    * [OAuth Flow](xss/vuls/reflected/oauth-flow.md)
-    * [CVE-2020-3580](xss/vuls/reflected/cve-2020-3580-1.md)
-    * [Android](xss/vuls/reflected/android.md)
-    * [error](xss/vuls/reflected/error.md)
-    * [URL](xss/vuls/reflected/url.md)
-  * [Store](xss/vuls/store/README.md)
-    * [MarkDown](xss/vuls/store/markdown.md)
-    * [Rich Text](xss/vuls/store/rich-text.md)
-    * [branch name](xss/vuls/store/branch-name.md)
-    * [register](xss/vuls/store/register.md)
-    * [Grafana](xss/vuls/store/grafana.md)
-    * [emoji](xss/vuls/store/emoji.md)
-  * [DOM](xss/vuls/dom/README.md)
-    * [innerHTML](xss/vuls/dom/innerhtml.md)
-* [articles](xss/articles.md)
 
 ## 🧝♀ Violation of Secure Design Principles
 
